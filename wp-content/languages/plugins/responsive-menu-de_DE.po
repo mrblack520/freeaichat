@@ -1,0 +1,1808 @@
+# Translation of Plugins - Responsive Menu &#8211; Create Mobile-Friendly Menu - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Responsive Menu &#8211; Create Mobile-Friendly Menu - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-13 16:58:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-rc.1\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Responsive Menu &#8211; Create Mobile-Friendly Menu - Stable (latest release)\n"
+
+#: v4.0.0/templates/menu-elements/search.php:45
+msgid "Add your custome search code.."
+msgstr "Gibt Deinen eigenen Such-Code ein ..."
+
+#: v4.0.0/templates/menu-elements/search.php:39
+msgid "Custome search code"
+msgstr "Eigener Such-Code"
+
+#: v4.0.0/inc/helpers/custom-functions.php:266
+msgid "Customize Menu"
+msgstr "Menü anpassen"
+
+#: v4.0.0/inc/classes/class-control-manager.php:1056
+#: v4.0.0/inc/classes/class-control-manager.php:1127
+#: v4.0.0/templates/menu-elements/search.php:30
+#: v4.0.0/templates/menu-elements/search.php:41
+#: v4.0.0/templates/new-menu-wizard.php:198 v4.0.0/templates/rmp-wizards.php:37
+#: v4.0.0/templates/rmp-wizards.php:43 v4.0.0/templates/rmp-wizards.php:49
+#: v4.0.0/templates/rmp-wizards.php:55 v4.0.0/templates/rmp-wizards.php:61
+msgid "PRO"
+msgstr "PRO"
+
+#: v4.0.0/templates/menu-elements/menu.php:27
+msgid "Menu container columns"
+msgstr "Menu-Container Spalten"
+
+#: v4.0.0/templates/new-menu-wizard.php:113
+msgid "Read Documention"
+msgstr "Dokumentation lesen"
+
+#: v4.0.0/templates/new-menu-wizard.php:112
+msgid "Create WordPress Menu"
+msgstr "WordPress Menü erstellen"
+
+#: v4.0.0/templates/new-menu-wizard.php:110
+msgid "Please create a new WordPress menu by using following button and try again."
+msgstr "Bitte erstelle ein neues WordPress-Menü, indem Du die folgende Schaltfläche verwendest, und versuche es nochmals."
+
+#: v4.0.0/templates/new-menu-wizard.php:109
+msgid "Responsive menu plugin requires at least one WordPress menu."
+msgstr "Responsive Menu-Plugin benötigt mindestens ein WordPress-Menü."
+
+#: v4.0.0/templates/new-menu-wizard.php:108
+msgid "Looks like your WordPress website do not have any menus yet!"
+msgstr "Sieht so aus, als hätte Deine WordPress-Website noch keine Menüs!"
+
+#: v4.0.0/templates/new-menu-wizard.php:38
+msgid "WordPress menu missing"
+msgstr "WordPress-Menü fehlt"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:373
+#: v4.0.0/inc/classes/class-theme-manager.php:1111
+msgid "You can not upload themes !"
+msgstr "Du kannst keine Themes hochladen!"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:237
+msgid "You can not delete themes !"
+msgstr "Du kannst keine Themes löschen!"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:125
+msgid "You can not apply themes !"
+msgstr "Du kannst keine Themes anwenden!"
+
+#: v4.0.0/inc/classes/class-editor-manager.php:157
+#: v4.0.0/inc/classes/class-theme-manager.php:496
+msgid "You can not edit menu !"
+msgstr "Du kannst das Menü nicht bearbeiten!"
+
+#: v4.0.0/inc/classes/class-editor-manager.php:118
+msgid "You can not update menu !"
+msgstr "Du kannst das Menü nicht aktualisieren!"
+
+#: v4.0.0/inc/classes/class-admin.php:571
+msgid "You can not import menu !"
+msgstr "Du kannst das Menü nicht importieren!"
+
+#: v4.0.0/inc/classes/class-admin.php:538
+msgid "You can not export menu !"
+msgstr "Du kannst das Menü nicht exportieren!"
+
+#: v4.0.0/inc/classes/class-admin.php:117
+msgid "You can not create menu !"
+msgstr "Du kannst das Menü nicht erstellen!"
+
+#: v4.0.0/inc/classes/class-admin.php:103
+msgid "Saved"
+msgstr "Gespeichert"
+
+#: v4.0.0/inc/classes/class-admin.php:81
+msgid "You can't edit global settings!"
+msgstr "Du kannst die allgemeinen Einstellungen nicht bearbeiten!"
+
+#: v4.0.0/templates/rmp-wizards.php:181
+msgid "Getting data from the server."
+msgstr "Hole Daten vom Server."
+
+#: v4.0.0/templates/rmp-wizards.php:179
+msgid "Just a moment"
+msgstr "Einen Moment bitte"
+
+#: v4.0.0/templates/rmp-wizards.php:105
+msgid "FontAwesome regular icons are not available in free version."
+msgstr "FontAwesome Regular Icons sind in der kostenlosen Version nicht verfügbar."
+
+#: v4.0.0/templates/rmp-wizards.php:97
+msgid "Material icons are not available in free version."
+msgstr "Material Icons sind in der kostenlosen Version nicht verfügbar."
+
+#: v4.0.0/templates/rmp-wizards.php:89
+msgid "The glyphicons are not available in free version."
+msgstr "Glyphicons  sind in der kostenlosen Version nicht verfügbar."
+
+#: v4.0.0/templates/rmp-wizards.php:81
+msgid "FontAwesome solid icons are not available in free version."
+msgstr "FontAwesome Solid Icons sind in der kostenlosen Version nicht verfügbar."
+
+#: v4.0.0/templates/rmp-wizards.php:73 v4.0.0/templates/rmp-wizards.php:81
+#: v4.0.0/templates/rmp-wizards.php:89 v4.0.0/templates/rmp-wizards.php:97
+#: v4.0.0/templates/rmp-wizards.php:105
+msgid "Upgrade now to use"
+msgstr "Upgraden, um das zu verwenden"
+
+#: v4.0.0/templates/rmp-wizards.php:73
+msgid "FontAwesome brand icons are not available in free version."
+msgstr "FontAwesome Brand Icons sind in der kostenlosen Version nicht verfügbar."
+
+#. translators: %s: HTML tag
+#: v4.0.0/inc/classes/elementor/widgets/class-rmp-widget.php:131
+msgid "Go to the %1$s Menus screen %2$s to create one."
+msgstr "Gehe zum %1$s Menüs Screen %2$s um eines zu erstellen."
+
+#. translators: %s: HTML tag
+#: v4.0.0/inc/classes/elementor/widgets/class-rmp-widget.php:122
+msgid "Go to the %1$sResponsive menu customizer%2$s to style your menu."
+msgstr "Gehe zum %1$sResponsive Menü-Customizer%2$s, um Dein Menü zu gestalten. "
+
+#: v4.0.0/inc/classes/class-plugin.php:107
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#. translators: %d: Menu id
+#: v4.0.0/inc/classes/class-admin.php:226
+msgid "Shortcode with menu id %d is not published."
+msgstr "Shortcode mit der Menü-ID %d ist nicht veröffentlicht. "
+
+#: review-banner-class.php:95
+msgid "RM Team"
+msgstr "RM Team"
+
+#: v4.0.0/templates/rmp-roadmap.php:60
+msgid "Dismiss this notice."
+msgstr "Diesen Hinweis ausblenden."
+
+#: v4.0.0/templates/rmp-roadmap.php:59
+msgid "Ideas"
+msgstr "Ideen"
+
+#: v4.0.0/templates/rmp-roadmap.php:57
+msgid "Updates"
+msgstr "Updates"
+
+#: v4.0.0/templates/rmp-roadmap.php:54
+msgid "~ RM Team"
+msgstr "~ RM Team"
+
+#: v4.0.0/templates/rmp-roadmap.php:53
+msgid "This page shows what has been planned for the Responsive Menu plugin. You can vote on the roadmap cards or add your own idea."
+msgstr "Diese Seite zeigt, was für das Responsive Menu Plugin geplant ist. Du kannst  über die Roadmap abstimmen oder Deine eigenen Ideen hinzufügen. "
+
+#: v4.0.0/inc/classes/class-theme-manager.php:397
+msgid "Theme Imported Successfully."
+msgstr "Das Theme wurde erfolgreich importiert."
+
+#: v4.0.0/inc/classes/class-theme-manager.php:381
+#: v4.0.0/inc/classes/class-theme-manager.php:1119
+msgid "Please add zip file !"
+msgstr "Bitte füge eine zip-Datei hinzu!"
+
+#: v4.0.0/templates/rmp-editor.php:2135
+msgid "Show hamburger inside element."
+msgstr "Hamburger Innerhalb des Elements anzeigen."
+
+#: v4.0.0/templates/rmp-editor.php:2131
+msgid "e.g. #header, .header"
+msgstr "z.B. #header, .header"
+
+#: v4.0.0/templates/rmp-editor.php:2126
+msgid "Element selector"
+msgstr "Element Selector"
+
+#: v4.0.0/templates/rmp-editor.php:360
+msgid "Enable Smooth Scrolling"
+msgstr "Sanften Bildlauf aktivieren"
+
+#: v4.0.0/templates/menu-elements/title.php:85
+msgid "Set Font Icon"
+msgstr "Font Icon festlegen"
+
+#: v4.0.0/templates/rmp-roadmap.php:52
+msgid "What's Next"
+msgstr "Was kommt als nächstes "
+
+#: review-banner-class.php:98
+msgid "No, this plugin is not good enough"
+msgstr "Nein, dieses Plugin ist nicht gut genug"
+
+#: review-banner-class.php:97
+msgid "I already did!"
+msgstr "Habe ich schon erledigt"
+
+#: review-banner-class.php:96
+msgid "Yeah, you deserve it!"
+msgstr "Ja, du hast es verdient"
+
+#. translators: %d: Result count
+#: review-banner-class.php:93
+msgid "Greetings! I just noticed that you have created %d Menus. That is awesome! Could you please help me out by giving this plugin a 5-star rating on WordPress? This will help us by helping other users discover this plugin."
+msgstr "Hallo! Ich habe gerade gesehen, dass du %d Menüs erstellt hast. Das ist toll! Würdest du mich unterstützen, um dem Plugin eine 5-Sterne Bewertung auf WordPress geben? Das wird uns helfen, dass auch andere Benutzer dieses Plugin finden."
+
+#: v4.0.0/templates/rmp-settings.php:67
+msgid "Enable dark mode for menu editor page."
+msgstr "Dark Mode aktivieren"
+
+#: v4.0.0/templates/rmp-settings.php:61
+msgid "Active Dark Mode"
+msgstr "Dark Mode aktiv"
+
+#: v4.0.0/inc/classes/class-plugin.php:124
+msgid "Upgrade"
+msgstr "Upgraden"
+
+#. translators: %s: HTML tag
+#: v4.0.0/inc/classes/class-plugin.php:105
+msgid "Responsive menu list is empty. Create a menu by clicking the %1$sCreate New Menu%2$s button. For more details visit "
+msgstr "Die Responsive-Menu-Liste ist leer. Erstelle ein Menü mit einem Klick auf den  Button %1$sNeues Menü erstellen%2$s. Für weitere Details besuche"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:1158
+msgid "Cache data updated !"
+msgstr "Cache aktualisiert!"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:1138
+msgid "Theme is uploaded successfully"
+msgstr "Theme erfolgreich hochgeladen"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:693
+msgid "No theme available !"
+msgstr "Kein Theme verfügbar!"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:669
+#: v4.0.0/inc/classes/class-theme-manager.php:916
+#: v4.0.0/inc/classes/class-theme-manager.php:965
+#: v4.0.0/inc/classes/class-theme-manager.php:1014
+#: v4.0.0/inc/classes/class-theme-manager.php:1046
+msgid "View Demo"
+msgstr "Demo anzeigen"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:676
+msgid "Download"
+msgstr "Download"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:678
+msgid "Purchase"
+msgstr "Kaufen"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:592
+msgid "Use"
+msgstr "Verwenden"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:572
+msgid "You have no template !"
+msgstr "Du hast keine Vorlage!"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:248
+msgid "This theme is currently active. Please choose another theme and then try deleting."
+msgstr "Dieses Theme ist derzeit aktiv. Wähle bitte ein anderes Theme und versuche dieses zu löschen."
+
+#: v4.0.0/templates/rmp-themes.php:92
+msgid "Delete"
+msgstr "Löschen"
+
+#: v4.0.0/templates/rmp-themes.php:62
+msgid "You have no theme here"
+msgstr "Du hast hier kein Theme"
+
+#: v4.0.0/templates/rmp-themes.php:31
+msgid "Uploading zip file..."
+msgstr "zip-Datei wird hochgeladen ..."
+
+#: v4.0.0/templates/rmp-editor.php:2995
+msgid "Just a moment, the theme is applying..."
+msgstr "Einen Moment, das Theme wird angewendet ..."
+
+#: v4.0.0/templates/rmp-editor.php:163
+msgid "Theme Details"
+msgstr "Theme-Details"
+
+#: v4.0.0/templates/admin-notices.php:22
+msgid "Upgrade To Pro"
+msgstr "Upgrade auf Pro"
+
+#: v4.0.0/templates/admin-notices.php:16
+msgid "Upgrade to the pro version to get feature updates, premium support and unlimited access to the menu settings."
+msgstr "Upgrade auf Pro um Funktionsupdates, Premium Support und unbeschränkten Zugang zu den Einstellungen zu erhalten."
+
+#: v4.0.0/templates/admin-notices.php:15
+msgid "Welcome to Responsive Menu"
+msgstr "Willkommen beim Responsive Menu"
+
+#: v4.0.0/templates/new-menu-wizard.php:266
+msgid "Select specific pages where you want to show this menu."
+msgstr "Wähle Seiten, auf denen das Menü angezeigt werden soll"
+
+#: v4.0.0/templates/new-menu-wizard.php:202
+msgid "Select devices where you want to show this menu"
+msgstr "Wähle Ausgabegeräte, auf denen das Menü angezeigt werden soll"
+
+#: v4.0.0/templates/new-menu-wizard.php:183
+msgid "Add any valid css selector to hide the existing menu on your website."
+msgstr "Füge einen beliebigen gültigen CSS-Selektor hinzu, um das bestehende Menü auf der Website auszublenden."
+
+#: v4.0.0/templates/new-menu-wizard.php:147
+msgid "Map with your existing WordPress menu."
+msgstr "Karte mit dem existierenden WordPress Menü."
+
+#: v4.0.0/templates/new-menu-wizard.php:145
+msgid "Link WordPress Menu"
+msgstr "WordPress Menü verlinken."
+
+#: v4.0.0/templates/new-menu-wizard.php:134
+msgid "Please enter a descriptive name to identify this menu later"
+msgstr "Verwende einen beschreibenden Namen, um das Menü später identifizieren zu können."
+
+#: v4.0.0/templates/new-menu-wizard.php:132
+msgid "Name Your Menu"
+msgstr "Das Menü benennen"
+
+#: v4.0.0/templates/new-menu-wizard.php:92
+msgid "Just a moment <br/> Getting data from the server.."
+msgstr "Einen Moment<br/>Daten werden vom Server geholt.."
+
+#: v4.0.0/templates/new-menu-wizard.php:73 v4.0.0/templates/rmp-wizards.php:161
+msgid "If you have a menu theme in a .zip format, you can upload here."
+msgstr "Falls Du ein Menü-Theme in einem .zip Format hast, kannst Du es hier hochladen."
+
+#: v4.0.0/templates/new-menu-wizard.php:68 v4.0.0/templates/rmp-wizards.php:155
+msgid "Saved Templates"
+msgstr "Gespeicherte Vorlagen"
+
+#: v4.0.0/templates/new-menu-wizard.php:67 v4.0.0/templates/rmp-wizards.php:154
+msgid "Marketplace"
+msgstr "Marktplatz"
+
+#: v4.0.0/templates/new-menu-wizard.php:66 v4.0.0/templates/rmp-wizards.php:153
+msgid "Installed Themes"
+msgstr "Installierte Themes"
+
+#: v4.0.0/templates/rmp-settings.php:81
+msgid "Enable this option if your theme does not support wp_body_open hook."
+msgstr "Aktiviere diese Option, falls Dein Theme den wp_body_open Hook nicht unterstützt."
+
+#: v4.0.0/templates/rmp-settings.php:75
+msgid "Use wp_footer hook"
+msgstr "wp_footer-Hook nutzen"
+
+#. translators: %s: HTML tag
+#: v4.0.0/inc/classes/elementor/widgets/class-rmp-widget.php:131
+msgid "There are no menus in your site."
+msgstr "Es gibt keine Menüs auf deiner Website."
+
+#: v4.0.0/templates/rmp-roadmap.php:55
+msgid "Roadmap"
+msgstr "Roadmap"
+
+#: v4.0.0/templates/new-menu-wizard.php:172
+msgid "create wp menu"
+msgstr "WP Menü erstellen"
+
+#: v4.0.0/templates/new-menu-wizard.php:170
+msgid "Notice : You don't have any existing WordPress menus, please "
+msgstr "Info: Es gibt keine bestehenden WordPress Menüs, bitte"
+
+#: v4.0.0/templates/menu-elements/additional-content.php:25
+msgid "Content"
+msgstr "Inhalt"
+
+#: v4.0.0/inc/helpers/default-options.php:158
+msgid "Vortex Reverse (PRO)"
+msgstr "Vortex Reverse (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:157
+msgid "Vortex (PRO)"
+msgstr "Vortex (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:156
+msgid "Squeeze (PRO)"
+msgstr "Squeeze (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:155
+msgid "Stand Reverse (PRO)"
+msgstr "Stand Reverse (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:154
+msgid "Stand (PRO)"
+msgstr "Stand (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:153
+msgid "Spring Reverse (PRO)"
+msgstr "Spring Reverse (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:152
+msgid "Spring (PRO)"
+msgstr "Spring (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:151
+msgid "Spin Reverse (PRO)"
+msgstr "Spin Reverse (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:150
+msgid "Spin (PRO)"
+msgstr "Spin (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:149
+msgid "Slider Reverse (PRO)"
+msgstr "Slider Reverse (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:148
+msgid "Slider (PRO)"
+msgstr "Slider (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:147
+msgid "Minus (PRO)"
+msgstr "Minus (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:146
+msgid "Emphatic Reverse (PRO)"
+msgstr "Emphatic Reverse (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:145
+msgid "Emphatic (PRO)"
+msgstr "Emphatic (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:144
+msgid "Elastic Reverse (PRO)"
+msgstr "Elastic Reverse (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:143
+msgid "Elastic (PRO)"
+msgstr "Elastic (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:142
+msgid "Collapse Reverse (PRO)"
+msgstr "Collapse Reverse (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:141
+msgid "Collapse (PRO)"
+msgstr "Collapse (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:140
+msgid "Arrow Alt Reverse (PRO)"
+msgstr "Arrow Alt Reverse (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:139
+msgid "Arrow Alt (PRO)"
+msgstr "Arrow Alt (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:138
+msgid "Arrow Reverse (PRO)"
+msgstr "Arrow Reverse (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:137
+msgid "Arrow (PRO)"
+msgstr "Arrow (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:136
+msgid "3DY Reverse (PRO)"
+msgstr "3DY Reverse (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:135
+msgid "3DY (PRO)"
+msgstr "3DY (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:134
+msgid "3DX Reverse (PRO)"
+msgstr "3DX Reverse (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:133
+msgid "3DX (PRO)"
+msgstr "3DX (PRO)"
+
+#: v4.0.0/inc/helpers/default-options.php:132
+msgid "Boring"
+msgstr "Langweilig"
+
+#: v4.0.0/inc/helpers/default-options.php:131
+msgid "Off"
+msgstr "Aus"
+
+#: v4.0.0/inc/classes/class-plugin.php:170
+msgid "Responsive Menu has been deactivated"
+msgstr "Responsive Menu wurde deaktiviert"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:257
+msgid "Theme deleted"
+msgstr "Theme gelöscht"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:158
+msgid "Theme applied"
+msgstr "Theme aktiviert"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:130
+#: v4.0.0/inc/classes/class-theme-manager.php:242
+#: v4.0.0/inc/classes/class-theme-manager.php:485
+msgid "Theme Name Missing"
+msgstr "Theme Name fehlt"
+
+#: v4.0.0/inc/classes/class-control-manager.php:1179
+msgid "This feature is not available in free version. Upgrade now to use"
+msgstr "Diese Funktion ist in der kostenlosen Version nicht verfügbar. Jetzt upgraden, um es zu benutzen"
+
+#: v4.0.0/inc/classes/class-control-manager.php:1073
+msgid "Mobile"
+msgstr "Mobil"
+
+#: v4.0.0/inc/classes/class-control-manager.php:326
+msgid " (PRO)"
+msgstr " (PRO)"
+
+#: v4.0.0/inc/classes/class-editor-manager.php:132
+msgid "Menu not found"
+msgstr "Menü nicht gefunden"
+
+#: v4.0.0/inc/classes/class-editor-manager.php:128
+msgid "Success"
+msgstr "Erfolgreich"
+
+#: v4.0.0/inc/classes/class-editor-manager.php:77
+msgid "Unable to get mega menu settings"
+msgstr "Die Mega Menu Einstellungen können nicht abgerufen werden"
+
+#: v4.0.0/inc/classes/class-editor-manager.php:72
+#: v4.0.0/inc/classes/class-editor-manager.php:153
+#: v4.0.0/inc/classes/class-theme-manager.php:491
+msgid "Menu ID missing !"
+msgstr "Menü ID fehlt!"
+
+#: v4.0.0/inc/classes/class-editor-manager.php:66
+msgid "Menu Item ID missing"
+msgstr "Menu Element ID fehlt"
+
+#: v4.0.0/inc/classes/class-admin.php:603
+msgid "Menu settings imported successfully!"
+msgstr "Menü-Einstellungen erfolgreich importiert!"
+
+#: v4.0.0/inc/classes/class-admin.php:562
+msgid "Please add json file !"
+msgstr "Bitte füge eine json-Datei hinzu!"
+
+#: v4.0.0/inc/classes/class-admin.php:558
+msgid "Please add file !"
+msgstr "Bitte füge eine Datei hinzu."
+
+#: v4.0.0/inc/classes/class-admin.php:534
+#: v4.0.0/inc/classes/class-admin.php:567
+msgid "Select menu !"
+msgstr "Menü auswählen..."
+
+#: v4.0.0/inc/classes/class-admin.php:488
+msgid "Not found in Trash"
+msgstr "Nicht im Papierkorb gefunden"
+
+#: v4.0.0/inc/classes/class-admin.php:487
+msgid "Not Found"
+msgstr "Nicht gefunden"
+
+#: v4.0.0/inc/classes/class-admin.php:486
+msgid "Search Menu"
+msgstr "Menü suchen"
+
+#: v4.0.0/inc/classes/class-admin.php:485
+msgid "Update Menu"
+msgstr "Menü aktualisieren"
+
+#: v4.0.0/inc/classes/class-admin.php:484
+msgid "Edit Menu"
+msgstr "Menü bearbeiten"
+
+#: v4.0.0/inc/classes/class-admin.php:482
+msgid "Add New Menu"
+msgstr "Neues Menü hinzufügen"
+
+#: v4.0.0/inc/classes/class-admin.php:481
+msgid "View Menu"
+msgstr "Menü anzeigen"
+
+#: v4.0.0/inc/classes/class-admin.php:480
+msgid "Menus"
+msgstr "Menüs"
+
+#: v4.0.0/inc/classes/class-admin.php:479
+msgid "Parent Menu"
+msgstr "Eltern Menü"
+
+#: v4.0.0/inc/classes/class-admin.php:408
+msgid "Date"
+msgstr "Datum"
+
+#: v4.0.0/inc/classes/class-admin.php:407
+msgid "Actions"
+msgstr "Aktionen"
+
+#: v4.0.0/inc/classes/class-admin.php:406
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: v4.0.0/inc/classes/class-admin.php:388
+#: v4.0.0/inc/classes/class-admin.php:447
+msgid "Customize"
+msgstr "Anpassen"
+
+#: v4.0.0/inc/classes/class-admin.php:234
+#: v4.0.0/inc/classes/class-admin.php:272
+#: v4.0.0/inc/classes/class-admin.php:457
+msgid "Shortcode deactivated"
+msgstr "Shortcode deaktiviert"
+
+#: v4.0.0/inc/classes/class-admin.php:220
+msgid "Please pass menu id as attribute."
+msgstr "Bitte Menü-ID als Attribut übergeben"
+
+#: v4.0.0/inc/classes/class-admin.php:200
+msgid "Unable to create new Menu !"
+msgstr "Ein neues Menü kann nicht erstellt werden!"
+
+#: v4.0.0/inc/classes/class-admin.php:191
+msgid "Menu is created successfully"
+msgstr "Menü erfolgreich erstellt!"
+
+#: v4.0.0/inc/classes/class-admin.php:127
+msgid "Select menu to use !"
+msgstr "Menü zur Verwendung auswählen!"
+
+#: v4.0.0/inc/classes/class-admin.php:122
+msgid "Enter the Menu name !"
+msgstr "Menü Name eingeben"
+
+#: v4.0.0/inc/classes/class-editor.php:179
+msgid "Enter desktop preview mode"
+msgstr "Desktop-Vorschau anzeigen"
+
+#: v4.0.0/inc/classes/class-editor.php:167
+msgid "Enter tablet preview mode"
+msgstr "Tablet-Vorschau anzeigen"
+
+#: v4.0.0/inc/classes/class-editor.php:155
+msgid "Enter mobile preview mode"
+msgstr "Mobile Vorschau anzeigen"
+
+#: v4.0.0/inc/classes/class-editor.php:138
+msgid "Change theme"
+msgstr "Theme wechseln"
+
+#: v4.0.0/inc/classes/class-editor.php:131
+msgid "Save as theme"
+msgstr "Als Theme speichern"
+
+#: v4.0.0/inc/classes/class-editor.php:118
+msgid "Update"
+msgstr "Update"
+
+#: v4.0.0/inc/classes/class-editor.php:87
+msgid "Close the editor and go back to the previous page"
+msgstr "Schließe den Editor und gehe zur vorherigen Seite zurück"
+
+#: v4.0.0/templates/rmp-editor.php:2946
+msgid "Show Menu "
+msgstr "Menü anzeigen"
+
+#: v4.0.0/templates/rmp-editor.php:2929
+msgid "Hide Menu"
+msgstr "Menü verbergen"
+
+#: v4.0.0/templates/rmp-editor.php:2920
+msgid "Select keystrokes to control the menu via keyboard."
+msgstr "Tastenkombinationen auswählen um das Menü über die Tastatur zu kontrollieren"
+
+#: v4.0.0/templates/rmp-editor.php:2918
+msgid "Keyboard Controls"
+msgstr "Tastatur Kontrolle"
+
+#: v4.0.0/templates/rmp-editor.php:2906
+msgid "This will enable you to drag or swipe to close the container on touch devices."
+msgstr "Das ermöglicht es, durch Ziehen oder Wischen den Container auf Touchscreens zu schließen"
+
+#: v4.0.0/templates/rmp-editor.php:2903
+msgid "Enable Touch Gestures"
+msgstr "Touch-Aktionen aktivieren"
+
+#: v4.0.0/templates/rmp-editor.php:2891
+msgid "Page Scroll"
+msgstr "Seiten Scroll"
+
+#: v4.0.0/templates/rmp-editor.php:2882
+msgid "Link Clicks"
+msgstr "Link Klicks"
+
+#: v4.0.0/templates/rmp-editor.php:2873
+msgid "Page Clicks"
+msgstr "Seiten Klicks"
+
+#: v4.0.0/templates/rmp-editor.php:2868
+msgid "Hide Menu On"
+msgstr "Menü verbergen auf"
+
+#: v4.0.0/templates/rmp-editor.php:2849
+msgid "CSS Selector"
+msgstr "CSS-Auswahl"
+
+#: v4.0.0/templates/rmp-editor.php:2847
+msgid "Mention the CSS selector of the main element which should be pushed when using push animations."
+msgstr "Speichere den CSS-Selektor beim Hauptelement, das geschoben werden soll, wenn Push-Animationen verwendet werden."
+
+#: v4.0.0/templates/rmp-editor.php:2843
+msgid "Push Wrapper"
+msgstr "Push Rahmen"
+
+#: v4.0.0/templates/rmp-editor.php:2833
+msgid "Control the speed of animation for container entry and exit."
+msgstr "Kontrolliere die Animationsgeschwindigkeit für Ein- und Ausblenden des Containers."
+
+#: v4.0.0/templates/rmp-editor.php:2827
+msgid "Transition delay"
+msgstr "Verzögerung beim Übergang"
+
+#: v4.0.0/templates/rmp-editor.php:2793
+msgid "Type"
+msgstr "Typ"
+
+#: v4.0.0/templates/rmp-editor.php:2810
+msgid "Set the viewport side for container entry."
+msgstr "Festlegen von welcher Seite der Container erscheint."
+
+#: v4.0.0/templates/rmp-editor.php:2807
+msgid "Direction"
+msgstr "Richtung"
+
+#: v4.0.0/templates/rmp-editor.php:2746
+msgid "Container Background"
+msgstr "Container-Hintergrund"
+
+#: v4.0.0/templates/rmp-editor.php:2723
+msgid "Limit container height upto last container element"
+msgstr "Höhe des Containers beschränken mit dem letzten Element"
+
+#: v4.0.0/templates/rmp-editor.php:2719
+msgid "Auto Height"
+msgstr "Automatische Höhe"
+
+#: v4.0.0/templates/rmp-editor.php:2660 v4.0.0/templates/rmp-editor.php:2683
+#: v4.0.0/templates/rmp-editor.php:2703
+msgid "Enter value"
+msgstr "Wert eingeben"
+
+#: v4.0.0/templates/rmp-editor.php:2644
+msgid "Appearance"
+msgstr "Darstellung"
+
+#: v4.0.0/templates/rmp-editor.php:2621
+msgid "Drag the container items up and down to re-order their appearance on the front end."
+msgstr "Ziehe die Container-Elemente hinauf und hinunter, um die Anzeige auf der Website neu zu ordnen"
+
+#: v4.0.0/templates/rmp-editor.php:2609
+msgid "If you don't want to use the button that comes with the menu, you can specify your own container trigger here. Any CSS selector is accepted."
+msgstr "Falls Du den im Menü enthaltenen Button nicht verwenden möchtest, kannst Du hier einen eigenen Schalter definieren. Jeder CSS-Selector ist erlaubt."
+
+#: v4.0.0/templates/rmp-editor.php:2602
+msgid "Custom Toggle Selector"
+msgstr "Eigener Umschalter Selektor"
+
+#: v4.0.0/templates/rmp-editor.php:2591
+msgid "Toggle menu on hover"
+msgstr "Menü umschalten bei hover"
+
+#: v4.0.0/templates/rmp-editor.php:2580
+msgid "Toggle menu on click"
+msgstr "Menü umschalten bei Klick"
+
+#: v4.0.0/templates/rmp-editor.php:2572
+msgid "Button Behaviour"
+msgstr "Button Verhalten"
+
+#: v4.0.0/templates/rmp-editor.php:2506
+msgid "Enter font"
+msgstr "Schriftart eingeben"
+
+#: v4.0.0/templates/rmp-editor.php:2485
+msgid "Text Position"
+msgstr "Textposition"
+
+#: v4.0.0/templates/rmp-editor.php:2469
+msgid "Active Text"
+msgstr "Aktiver Text"
+
+#: v4.0.0/templates/rmp-editor.php:2462
+msgid "Add text along with hamburger icon/image when button is in active state."
+msgstr "Text zum Hamburger Icon/Bild hinzufügen, wenn der Button im aktiven Status ist."
+
+#: v4.0.0/templates/rmp-editor.php:2458 v4.0.0/templates/rmp-editor.php:2473
+msgid "Enter text"
+msgstr "Text eingeben"
+
+#: v4.0.0/templates/rmp-editor.php:2445
+msgid "Button Text"
+msgstr "Button Text"
+
+#: v4.0.0/templates/rmp-editor.php:2419
+msgid "Use a custom image instead of standard hamburger lines."
+msgstr "Verwende ein eigenes Bild anstatt der Standard-Linien"
+
+#: v4.0.0/templates/rmp-editor.php:2381
+msgid "Use a custom font icon instead of standard hamburger lines"
+msgstr "Verwende ein eigenes Font-Icon anstatt der Standard-Linien"
+
+#: v4.0.0/templates/rmp-editor.php:2353
+msgid "Line Active"
+msgstr "Linie aktiv"
+
+#: v4.0.0/templates/rmp-editor.php:2341
+msgid "Line Hover"
+msgstr "Linie Hover"
+
+#: v4.0.0/templates/rmp-editor.php:2313
+msgid "Set the height of each individual button line and it's unit"
+msgstr "Höhe jedes einzelnen Buttons und seine Einheit festlegen"
+
+#: v4.0.0/templates/rmp-editor.php:2290
+msgid "Set the width of each individual button line and it's unit"
+msgstr "Breite jedes einzelnen Buttons und seine Einheit festlegen"
+
+#: v4.0.0/templates/rmp-editor.php:2266
+msgid "Set the margin between each individual button line and it's unit"
+msgstr "Abstand zwischen jeder Linie des Buttons und seine Einheit festlegen"
+
+#: v4.0.0/templates/rmp-editor.php:2259
+msgid "Line Spacing"
+msgstr "Linie Abstand"
+
+#: v4.0.0/templates/rmp-editor.php:2221
+msgid "Hamburger"
+msgstr "Hamburger"
+
+#: v4.0.0/templates/rmp-editor.php:2207
+msgid "Button Type"
+msgstr "Button-Typ"
+
+#: v4.0.0/templates/rmp-editor.php:2192
+msgid "The toggle button will slide along with menu container."
+msgstr "Der Umschaltbutton wird mit dem Menü-Container sliden"
+
+#: v4.0.0/templates/rmp-editor.php:2189
+msgid "Push Button with Menu"
+msgstr "Button mit Menü verschieben"
+
+#: v4.0.0/templates/rmp-editor.php:2172
+msgid "Specify how far from the top you want the button to display and it's unit."
+msgstr "Festlegen, wie weit von oben der Button angezeigt werden soll in welcher Einheit."
+
+#: v4.0.0/templates/rmp-editor.php:2150
+msgid "Specify how far across from the side you want the button to display and it's unit."
+msgstr "Festlegen, wie weit von der Seite der Button angezeigt werden soll in welcher Einheit."
+
+#: v4.0.0/templates/rmp-editor.php:2110
+msgid "Specify how you want the button to stick to your page."
+msgstr "Festlegen, wie der Button auf der Seite fixiert werden soll."
+
+#: v4.0.0/templates/rmp-editor.php:2092
+msgid "Specify which side of the page you want the button to be displayed on."
+msgstr "Festlegen, auf welcher Seite der Button angezeigt werden soll."
+
+#: v4.0.0/templates/rmp-editor.php:2079
+msgid "Button Position"
+msgstr "Button-Position"
+
+#: v4.0.0/templates/rmp-editor.php:2065
+msgid "Set the button container to a transparent background."
+msgstr "Hintergrund des Buttons-Containers auf transparent setzen."
+
+#: v4.0.0/templates/rmp-editor.php:2037
+msgid "Active Color"
+msgstr "Aktive Farbe"
+
+#: v4.0.0/templates/rmp-editor.php:2014
+msgid "Set the background colour of the button container."
+msgstr "Die Hintergrundfarbe den Button-Cotainers festlegen."
+
+#: v4.0.0/templates/rmp-editor.php:1985
+msgid "Container Height"
+msgstr "Container Höhe"
+
+#: v4.0.0/templates/rmp-editor.php:1965
+msgid "Container Width"
+msgstr "Container-Breite"
+
+#: v4.0.0/templates/rmp-editor.php:1956
+msgid "Button Style"
+msgstr "Button-Stil"
+
+#: v4.0.0/templates/rmp-editor.php:1933
+msgid "Expand Sub items on Parent Item Click"
+msgstr "Sub-Elemente einblenden bei Klick auf das Eltern-Element."
+
+#: v4.0.0/templates/rmp-editor.php:1900
+msgid "Use Accordion"
+msgstr "Akkordeon verwenden"
+
+#: v4.0.0/templates/rmp-editor.php:1881 v4.0.0/templates/rmp-editor.php:2861
+msgid "Behaviour"
+msgstr "Verhalten"
+
+#: v4.0.0/templates/rmp-editor.php:1642
+msgid "Set the height of the menu trigger items and their units."
+msgstr "Höhe der Umschalt-Elemente und deren Einheit einstellen."
+
+#: v4.0.0/templates/rmp-editor.php:1620
+msgid "Set the width of the menu trigger items and their units."
+msgstr "Breite der Umschalt-Elemente und deren Einheit einstellen."
+
+#: v4.0.0/templates/rmp-editor.php:1593 v4.0.0/templates/rmp-editor.php:2427
+msgid "Active Image"
+msgstr "Aktives Bild"
+
+#: v4.0.0/templates/rmp-editor.php:1557 v4.0.0/templates/rmp-editor.php:2390
+msgid "Active Font Icon"
+msgstr "Aktives Icon"
+
+#: v4.0.0/templates/rmp-editor.php:1522
+msgid "Active Text Shape"
+msgstr "Gestaltung aktiver Text"
+
+#: v4.0.0/templates/rmp-editor.php:1511
+msgid "Text Shape"
+msgstr "Gestaltung Text"
+
+#: v4.0.0/templates/rmp-editor.php:1473
+msgid "Trigger Icon"
+msgstr "Schalter Farbe"
+
+#: v4.0.0/templates/rmp-editor.php:1443
+msgid "Active Item Color"
+msgstr "Farbe aktives Element"
+
+#: v4.0.0/templates/rmp-editor.php:1432
+msgid "Hover Color"
+msgstr "Hover-Farbe"
+
+#: v4.0.0/templates/rmp-editor.php:1320
+msgid "Set the border colour when the mouse rolls over the current submenu item."
+msgstr "Einstellung Rahmenfarbe, bei Maus-Kontakt über dem aktuellen Element des Submenüs"
+
+#: v4.0.0/templates/rmp-editor.php:1185
+msgid "Child Level 4"
+msgstr "Sub Level 4"
+
+#: v4.0.0/templates/rmp-editor.php:1166
+msgid "Child Level 3"
+msgstr "Sub Level 3"
+
+#: v4.0.0/templates/rmp-editor.php:1144
+msgid "Child Level 2"
+msgstr "Sub Level 2"
+
+#: v4.0.0/templates/rmp-editor.php:1125
+msgid "Child Level 1"
+msgstr "Sub Level 1"
+
+#: v4.0.0/templates/rmp-editor.php:1110
+msgid "You can set which side of the menu items the padding should be on."
+msgstr "Du kannst einstellen, auf welcher Seite der Menü-Elemente ein Innenabstand sein soll."
+
+#: v4.0.0/templates/rmp-editor.php:1107 v4.0.0/templates/rmp-editor.php:2088
+msgid "Side"
+msgstr "Seite"
+
+#: v4.0.0/templates/rmp-editor.php:1101
+msgid "Indentation"
+msgstr "Tiefe"
+
+#: v4.0.0/templates/rmp-editor.php:1033
+msgid "Set the border colour when the mouse rolls over the current menu item."
+msgstr "Einstellung Rahmenfarbe, bei Maus-Kontakt über dem aktuellen Element des Menüs"
+
+#: v4.0.0/templates/rmp-editor.php:1030
+msgid "Active Hover"
+msgstr "Aktiv Hover"
+
+#: v4.0.0/templates/rmp-editor.php:982 v4.0.0/templates/rmp-editor.php:1270
+msgid "Set the border size for each menu link and it's unit."
+msgstr "Rahmengröße für jeden Menü-Link und dessen Einheit einstellen."
+
+#: v4.0.0/templates/rmp-editor.php:968 v4.0.0/templates/rmp-editor.php:1257
+msgid "Border"
+msgstr "Rahmen"
+
+#: v4.0.0/templates/rmp-editor.php:956
+msgid "Active Item Background Hover"
+msgstr "Aktives Element - Hintergrund Hover"
+
+#: v4.0.0/templates/rmp-editor.php:946
+msgid "Active Item Background"
+msgstr "Aktives Element - Hintergrund "
+
+#: v4.0.0/templates/rmp-editor.php:851
+msgid "Allow the menu items to wrap around to the next line."
+msgstr "Menü-Elemente sollen sich um die nächste Zeile legen."
+
+#: v4.0.0/templates/rmp-editor.php:832 v4.0.0/templates/rmp-editor.php:1385
+msgid "Letter Spacing"
+msgstr "Zeichenabstand"
+
+#: v4.0.0/templates/menu-elements/title.php:171
+#: v4.0.0/templates/rmp-editor.php:809 v4.0.0/templates/rmp-editor.php:1374
+msgid "Font Weight"
+msgstr "Schriftstärke"
+
+#: v4.0.0/templates/menu-elements/title.php:183
+#: v4.0.0/templates/rmp-editor.php:797 v4.0.0/templates/rmp-editor.php:1360
+#: v4.0.0/templates/rmp-editor.php:2502
+msgid "Font Family"
+msgstr "Schriftfamilie"
+
+#: v4.0.0/templates/rmp-editor.php:766 v4.0.0/templates/rmp-editor.php:1333
+msgid "Typography"
+msgstr "Typografie"
+
+#: v4.0.0/templates/rmp-editor.php:699 v4.0.0/templates/rmp-editor.php:1055
+msgid "Item Height"
+msgstr "Element Höhe"
+
+#: v4.0.0/templates/rmp-editor.php:685
+msgid "Sub Menu"
+msgstr "Untermenü"
+
+#: v4.0.0/templates/rmp-editor.php:680
+msgid "Top Level"
+msgstr "Oberste Ebene"
+
+#: v4.0.0/templates/rmp-editor.php:667
+msgid "Item Styling"
+msgstr "Element Styling"
+
+#: v4.0.0/templates/rmp-editor.php:653
+msgid "Item Icon"
+msgstr "Element Icon"
+
+#: v4.0.0/templates/rmp-editor.php:374
+msgid "Scroll Speed"
+msgstr "Scroll Geschwindigkeit"
+
+#: v4.0.0/templates/rmp-editor.php:364
+msgid "The webpage will scroll smoothly to their target sections on same page."
+msgstr "Die Website wird sanft zum Ziel auf derselben Seite scrollen."
+
+#: v4.0.0/templates/rmp-editor.php:598
+msgid "Modify the HTML output by using a custom Walker class."
+msgstr "HTML-Markup ändern mit einer eigenen Walker-Klasse."
+
+#: v4.0.0/templates/rmp-editor.php:1891
+msgid "Show the description text of menu items. Description text should be set while creating WordPress menus."
+msgstr "Text der Beschreibung der Menü-Elemente anzeigen. Text kann beim Erstellen des WordPress Menüs eingegeben werden."
+
+#: v4.0.0/templates/rmp-editor.php:1888
+msgid "Item Descriptions"
+msgstr "Element-Beschreibungen"
+
+#: v4.0.0/templates/rmp-editor.php:621
+msgid "Set the level of nesting for sub menus."
+msgstr "Tiefe der Verschachtelung von Submenüs einstellen."
+
+#: v4.0.0/templates/rmp-editor.php:618
+msgid "Depth Level"
+msgstr "Tiefe Levels"
+
+#: v4.0.0/templates/rmp-editor.php:609
+msgid "Menu Background"
+msgstr "Menü-Hintergrund"
+
+#: v4.0.0/templates/rmp-editor.php:565
+msgid "To hide your current theme menu you need to put the CSS selector here. Any legal CSS selection criteria is valid."
+msgstr "Um das aktuelle Theme-Menü zu verbergen, musst Du dessen CSS-Selektor hier eingeben. Jeder gültige CSS-Selektor kann verwendet werden."
+
+#: v4.0.0/templates/new-menu-wizard.php:181 v4.0.0/templates/rmp-editor.php:559
+msgid "Hide Theme Menu"
+msgstr "Theme-Menü verbergen"
+
+#: v4.0.0/templates/rmp-editor.php:550
+msgid "Include only pages (PRO)"
+msgstr "Nur Seiten inkludieren (PRO)"
+
+#: v4.0.0/templates/rmp-editor.php:549
+msgid "Exclude some pages (PRO) "
+msgstr "Einzelne Seiten ausschließen (PRO) "
+
+#: v4.0.0/templates/rmp-editor.php:543
+msgid "Display condition"
+msgstr "Anzeige-Bedingungen"
+
+#: v4.0.0/templates/rmp-editor.php:527
+msgid " Use different menu for mobile & tablet "
+msgstr "Anderes Menü für Mobile & Tablet verwenden"
+
+#: v4.0.0/templates/rmp-editor.php:511
+msgid "Choose WP Menu"
+msgstr "WP Menü auswählen"
+
+#: v4.0.0/templates/rmp-editor.php:501
+msgid "option will take precedence over this."
+msgstr "Option wird das überschreiben"
+
+#: v4.0.0/templates/rmp-editor.php:501
+msgid "Please note that the"
+msgstr "Bitte beachte, dass "
+
+#: v4.0.0/templates/rmp-editor.php:500
+msgid "here"
+msgstr "hier"
+
+#: v4.0.0/templates/rmp-editor.php:500
+msgid "Appearance > Menus or"
+msgstr "Design > Menüs oder"
+
+#: v4.0.0/templates/rmp-editor.php:500
+msgid "If no options appear here, make sure you have set them up under"
+msgstr "Falls hier keine Optionen angezeigt werden, prüfe, ob Du sie eingerichtet hast unter"
+
+#: v4.0.0/templates/rmp-editor.php:491
+msgid "Name"
+msgstr "Name"
+
+#: v4.0.0/templates/new-menu-wizard.php:51 v4.0.0/templates/rmp-editor.php:481
+#: v4.0.0/templates/rmp-editor.php:584
+msgid "Menu Settings"
+msgstr "Menü Einstellungen"
+
+#: v4.0.0/templates/rmp-editor.php:465
+msgid "Advanced Settings"
+msgstr "Erweiterte Einstellungen"
+
+#: v4.0.0/templates/rmp-editor.php:454
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: v4.0.0/templates/rmp-editor.php:437
+msgid "Toggle button"
+msgstr "Umschalt-Button"
+
+#: v4.0.0/templates/rmp-editor.php:426
+msgid "Container"
+msgstr "Container"
+
+#: v4.0.0/templates/rmp-editor.php:394
+msgid "Put a backdrop when menu is active."
+msgstr "Legen einen Hintergrund fest, wenn das Menü aktiv ist."
+
+#: v4.0.0/templates/rmp-editor.php:351
+msgid "This will disable the background page scrolling."
+msgstr "Das wird das Scrollen der Seite im Hintergrund deaktivieren."
+
+#: v4.0.0/templates/rmp-editor.php:346
+msgid "Disable Background Scrolling"
+msgstr "Hintergrund-Scrollen deaktivieren"
+
+#: v4.0.0/templates/rmp-editor.php:335
+msgid "The menu will appear in expanded state when the page loads."
+msgstr "Das Menü wird beim Laden der Seite aufgeklappt angezeigt."
+
+#: v4.0.0/templates/rmp-editor.php:331
+msgid "Trigger Menu on page load"
+msgstr "Menü umschalten beim Laden der Seite"
+
+#: v4.0.0/templates/rmp-editor.php:307
+msgid "Specify the speed at which the sub menus transition."
+msgstr "Geschwindigkeit der Transition der Sub-Menüs festlegen"
+
+#: v4.0.0/templates/rmp-editor.php:290
+msgid "Specify the speed at which colours transition from standard to active or hover states."
+msgstr "Geschwindigkeit der Transition beim Wechsel der Farben von Standard zum Active- oder Hover-Status festlegen."
+
+#: v4.0.0/templates/rmp-editor.php:262
+msgid "Set the breakpoint below which you want hamburger menu"
+msgstr "Breite, unterhalb der das Hamburger-Menü angezeigt werden soll"
+
+#: v4.0.0/templates/rmp-editor.php:249
+msgid "Menu Breakpoint"
+msgstr "Menü Breakpoint"
+
+#: v4.0.0/templates/rmp-editor.php:211
+msgid "Save As Theme"
+msgstr "Als Theme speichern"
+
+#: v4.0.0/templates/rmp-editor.php:201
+msgid "Change Theme"
+msgstr "Theme wechseln"
+
+#: v4.0.0/templates/rmp-editor.php:100 v4.0.0/templates/rmp-editor.php:127
+msgid "Pro"
+msgstr "Pro"
+
+#: v4.0.0/templates/rmp-editor.php:99
+msgid "Desktop Menu"
+msgstr "Desktop-Menü"
+
+#: v4.0.0/templates/rmp-editor.php:86
+msgid "Mobile Menu"
+msgstr "Mobile Menü"
+
+#: v4.0.0/templates/rmp-editor.php:63
+msgid "rmp-menu-editor"
+msgstr "rmp-menu-editor"
+
+#: v4.0.0/templates/rmp-themes.php:47
+msgid "Select Files"
+msgstr "Dateien auswählen"
+
+#: v4.0.0/templates/rmp-themes.php:43
+msgid "Drop zip files here or click to upload."
+msgstr "Ziehe Zip-Dateien hierher oder Klick zum Upload."
+
+#: v4.0.0/templates/rmp-themes.php:41
+msgid "Import Menu Theme To Your Library"
+msgstr "Menü-Theme in die Bibliothek importieren"
+
+#: v4.0.0/templates/rmp-themes.php:22
+msgid "Upload theme"
+msgstr "Theme hochladen"
+
+#: v4.0.0/inc/classes/class-admin.php:308
+#: v4.0.0/inc/classes/class-admin.php:309 v4.0.0/templates/rmp-editor.php:140
+#: v4.0.0/templates/rmp-themes.php:18
+msgid "Themes"
+msgstr "Themes"
+
+#: v4.0.0/templates/new-menu-wizard.php:291
+msgid "Create Menu"
+msgstr "Menü erstellen"
+
+#: v4.0.0/templates/new-menu-wizard.php:287
+msgid "Next"
+msgstr "Weiter"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:909
+#: v4.0.0/inc/classes/class-theme-manager.php:913
+#: v4.0.0/inc/classes/class-theme-manager.php:916
+#: v4.0.0/inc/classes/class-theme-manager.php:1013
+msgid "Default Theme"
+msgstr "Standard-Theme"
+
+#: v4.0.0/templates/new-menu-wizard.php:275
+msgid "Include only pages (Pro)"
+msgstr "Nur Seiten inkludieren (PRO)"
+
+#: v4.0.0/templates/new-menu-wizard.php:274
+msgid "Exclude some pages (Pro) "
+msgstr "Einzelne Seiten ausschließen (PRO) "
+
+#: v4.0.0/templates/new-menu-wizard.php:273 v4.0.0/templates/rmp-editor.php:548
+msgid "Use as shortcode"
+msgstr "Als Shortcode verwenden"
+
+#: v4.0.0/templates/new-menu-wizard.php:272 v4.0.0/templates/rmp-editor.php:547
+msgid "Show on all pages "
+msgstr "Auf allen Seiten anzeigen"
+
+#: v4.0.0/templates/new-menu-wizard.php:261
+msgid "Display Condition"
+msgstr "Anzeige-Bedingungen"
+
+#: v4.0.0/inc/classes/class-control-manager.php:1104
+#: v4.0.0/templates/new-menu-wizard.php:251
+msgid "Desktop"
+msgstr "Desktop"
+
+#: v4.0.0/inc/classes/class-control-manager.php:1089
+#: v4.0.0/templates/new-menu-wizard.php:235
+msgid "Tablet"
+msgstr "Tablet"
+
+#: v4.0.0/inc/classes/class-control-manager.php:1055
+#: v4.0.0/templates/new-menu-wizard.php:197
+msgid "Device Visibility"
+msgstr "Geräte Sichtbarkeit"
+
+#: v4.0.0/templates/new-menu-wizard.php:48
+msgid "Select Themes"
+msgstr "Themes auswählen"
+
+#: v4.0.0/inc/classes/elementor/widgets/class-rmp-widget.php:98
+msgid "Menu Setting"
+msgstr "Menü Einstellungen"
+
+#: v4.0.0/inc/classes/class-admin.php:483
+#: v4.0.0/templates/new-menu-wizard.php:41
+msgid "Create New Menu"
+msgstr "Neues Menü erstellen"
+
+#: v4.0.0/inc/classes/class-theme-manager.php:587
+#: v4.0.0/inc/classes/class-theme-manager.php:970
+#: v4.0.0/inc/classes/class-theme-manager.php:1055
+msgid "Apply"
+msgstr "Anwenden"
+
+#: v4.0.0/templates/rmp-wizards.php:144
+msgid "Use Theme"
+msgstr "Theme benutzen"
+
+#: v4.0.0/templates/rmp-wizards.php:131
+msgid "Save Theme"
+msgstr "Theme speichern"
+
+#: v4.0.0/templates/rmp-wizards.php:128
+msgid "Your designs will be available for export and reuse on any menu or website."
+msgstr "Dein Design wird für den Export und die Verwendung bei jedem Menü oder jeder Website verfügbar sein."
+
+#: v4.0.0/templates/rmp-wizards.php:127
+msgid "Save menu options as theme template"
+msgstr "Menüeinstellungen als Theme-Vorlage speichern"
+
+#: v4.0.0/templates/rmp-wizards.php:115
+msgid "Select"
+msgstr "Auswählen"
+
+#: v4.0.0/templates/rmp-wizards.php:114
+msgid "Clear"
+msgstr "Leeren"
+
+#: v4.0.0/inc/classes/class-control-manager.php:1180
+#: v4.0.0/templates/rmp-wizards.php:74 v4.0.0/templates/rmp-wizards.php:82
+#: v4.0.0/templates/rmp-wizards.php:90 v4.0.0/templates/rmp-wizards.php:98
+#: v4.0.0/templates/rmp-wizards.php:106
+msgid "Upgrade to Pro"
+msgstr "Upgrade auf Pro"
+
+#: v4.0.0/templates/rmp-wizards.php:60
+msgid "GlyphIcon"
+msgstr "GlyphIcon"
+
+#: v4.0.0/templates/rmp-wizards.php:54
+msgid "FontAwesome Regular (far)"
+msgstr "FontAwesome Regular (far)"
+
+#: v4.0.0/templates/rmp-wizards.php:48
+msgid "FontAwesome Brand (fab)"
+msgstr "FontAwesome Brand (fab)"
+
+#: v4.0.0/templates/rmp-wizards.php:42
+msgid "FontAwesome Solid (fas)"
+msgstr "FontAwesome Solid (fas)"
+
+#: v4.0.0/templates/rmp-wizards.php:36
+msgid "Material Icons (mdi)"
+msgstr "Material Icons (mdi)"
+
+#: v4.0.0/templates/rmp-wizards.php:33
+msgid "Dashicons"
+msgstr "Dashicons"
+
+#: v4.0.0/templates/rmp-wizards.php:26
+msgid "Select Icon"
+msgstr "Icon auswählen"
+
+#: v4.0.0/templates/rmp-settings.php:221
+msgid "This will import settings in selected menu created via the export process above."
+msgstr "Dies wird die Einstellungen in ein ausgewähltes Menü importieren über den Exportvorgang, wie oben beschrieben."
+
+#: v4.0.0/templates/rmp-settings.php:197
+msgid "Import Menu"
+msgstr "Menü importieren"
+
+#: v4.0.0/templates/rmp-settings.php:192
+msgid "This will create an export file for selected menu transferring to other sites."
+msgstr "Das wird eine Export-Datei für das ausgewählte Menü zum Trasnfer auf andere Websites erstellen."
+
+#: v4.0.0/templates/rmp-settings.php:176
+msgid "Export Menu"
+msgstr "Menü exportieren"
+
+#: v4.0.0/templates/rmp-settings.php:157
+msgid "You can place any Custom CSS you want here. Very useful if you want to make minor tweaks to some margins, paddings or colours or even for whole new layouts or designs."
+msgstr "Du kannst jedes individuelle CSS hier einfügen. Sehr nützlich, falls Du kleinere Anpassungen bei margins, paddings oder Farben machen, oder sogar komplett neue Layouts oder Designs erstellen möchtest."
+
+#: v4.0.0/templates/rmp-settings.php:136
+msgid "Stop this plugin's dashicons scripts from being load at frontend."
+msgstr "Die Dashicon-Scripte dieses Plugins sollen im Frontend nicht mehr geladen werden."
+
+#: v4.0.0/templates/rmp-settings.php:130
+msgid "Remove Dashicons"
+msgstr "Entferne Dashicons"
+
+#: v4.0.0/templates/rmp-settings.php:123
+msgid "Place the JavaScript created by this plugin in the footer."
+msgstr "Von diesem Plugin erstelltes JavaScript im Footer laden."
+
+#: v4.0.0/templates/rmp-settings.php:109
+msgid "Minify the CSS and JavaScript created by this plugin."
+msgstr "Von diesem Plugin erstelltes CSS und Javascript minimieren"
+
+#: v4.0.0/templates/rmp-settings.php:95
+msgid "Create external files for the CSS and JavaScript created by this plugin."
+msgstr "Externe Dateien für CSS und JavaScript dieses Plugins erstellen."
+
+#: v4.0.0/templates/rmp-settings.php:53
+msgid "If you use the WP Admin bar when logged in, this will help you to adjust the admin bar."
+msgstr "Falls Du die WP Adminbar verwendest, wenn Du angemeldet bist, kannst Du die WP Adminbar hier anpassen."
+
+#: v4.0.0/templates/rmp-settings.php:50
+msgid "Hide"
+msgstr "Verbergen"
+
+#: v4.0.0/templates/rmp-settings.php:49
+msgid "Adjust"
+msgstr "Anpassen"
+
+#: v4.0.0/templates/rmp-settings.php:48
+msgid "None"
+msgstr "Keine"
+
+#: v4.0.0/templates/rmp-settings.php:43
+msgid "Adjust for WP Admin Bar"
+msgstr "WP Adminbar anpassen"
+
+#: v4.0.0/templates/rmp-settings.php:145 v4.0.0/templates/rmp-settings.php:167
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: v4.0.0/templates/rmp-settings.php:35
+msgid "Style"
+msgstr "Style"
+
+#: v4.0.0/templates/menu-elements/title.php:245
+msgid "Enter height"
+msgstr "Höhe eingeben"
+
+#: v4.0.0/templates/menu-elements/title.php:239
+msgid "Image Height"
+msgstr "Bildhöhe"
+
+#: v4.0.0/templates/menu-elements/title.php:225
+msgid "Enter width"
+msgstr "Breite eingeben"
+
+#: v4.0.0/templates/menu-elements/title.php:219
+msgid "Image Width"
+msgstr "Bildbreite"
+
+#: v4.0.0/templates/menu-elements/title.php:205
+msgid " Text Hover"
+msgstr "Schrift bei Hover"
+
+#: v4.0.0/templates/menu-elements/title.php:125
+#: v4.0.0/templates/rmp-editor.php:935 v4.0.0/templates/rmp-editor.php:2024
+msgid "Background Hover"
+msgstr "Hintergrund bei Hover"
+
+#: v4.0.0/templates/menu-elements/title.php:116
+#: v4.0.0/templates/rmp-editor.php:923
+msgid "Background"
+msgstr "Hintergrund"
+
+#: v4.0.0/templates/menu-elements/title.php:55
+msgid "Link Target"
+msgstr "Linkziel"
+
+#: v4.0.0/templates/menu-elements/title.php:42
+msgid "Link "
+msgstr "Link "
+
+#: v4.0.0/templates/menu-elements/title.php:29
+msgid "Title Text "
+msgstr "Text des Titels"
+
+#: v4.0.0/templates/menu-elements/search.php:86
+#: v4.0.0/templates/rmp-editor.php:2046
+msgid "Border Radius"
+msgstr "Eckenradius"
+
+#: v4.0.0/templates/menu-elements/search.php:28
+msgid "Placeholder Text"
+msgstr "Platzhalter-Text"
+
+#: v4.0.0/templates/menu-elements/additional-content.php:20
+#: v4.0.0/templates/menu-elements/search.php:22
+#: v4.0.0/templates/menu-elements/title.php:22
+msgid "Styles"
+msgstr "Styles"
+
+#: v4.0.0/templates/menu-elements/additional-content.php:37
+#: v4.0.0/templates/menu-elements/search.php:55
+#: v4.0.0/templates/menu-elements/title.php:104
+#: v4.0.0/templates/rmp-editor.php:639 v4.0.0/templates/rmp-editor.php:743
+#: v4.0.0/templates/rmp-editor.php:2733
+msgid "Padding"
+msgstr "Innenabstand"
+
+#: v4.0.0/templates/rmp-editor.php:903 v4.0.0/templates/rmp-editor.php:1245
+#: v4.0.0/templates/rmp-editor.php:1317 v4.0.0/templates/rmp-editor.php:1452
+#: v4.0.0/templates/rmp-editor.php:1719 v4.0.0/templates/rmp-editor.php:1792
+#: v4.0.0/templates/rmp-editor.php:1847
+msgid "Active Item Hover"
+msgstr "Aktives Element Hover"
+
+#: v4.0.0/templates/rmp-editor.php:893 v4.0.0/templates/rmp-editor.php:1020
+#: v4.0.0/templates/rmp-editor.php:1235 v4.0.0/templates/rmp-editor.php:1308
+#: v4.0.0/templates/rmp-editor.php:1709 v4.0.0/templates/rmp-editor.php:1782
+#: v4.0.0/templates/rmp-editor.php:1837
+msgid "Active Item"
+msgstr "Aktives Element"
+
+#: v4.0.0/templates/rmp-editor.php:882 v4.0.0/templates/rmp-editor.php:1008
+#: v4.0.0/templates/rmp-editor.php:1223 v4.0.0/templates/rmp-editor.php:1296
+#: v4.0.0/templates/rmp-editor.php:1695 v4.0.0/templates/rmp-editor.php:1770
+#: v4.0.0/templates/rmp-editor.php:1825
+msgid "Hover"
+msgstr "Hover"
+
+#: v4.0.0/templates/rmp-editor.php:872 v4.0.0/templates/rmp-editor.php:998
+#: v4.0.0/templates/rmp-editor.php:1213 v4.0.0/templates/rmp-editor.php:1286
+#: v4.0.0/templates/rmp-editor.php:1685 v4.0.0/templates/rmp-editor.php:1760
+#: v4.0.0/templates/rmp-editor.php:1815
+msgid "Normal"
+msgstr "Normal"
+
+#: v4.0.0/templates/rmp-editor.php:1659 v4.0.0/templates/rmp-editor.php:2106
+msgid "Position"
+msgstr "Position"
+
+#: v4.0.0/templates/rmp-editor.php:501
+msgid "Theme Location"
+msgstr "Position im Theme"
+
+#. Author of the plugin
+#: responsive-menu.php
+msgid "ExpressTech"
+msgstr "ExpressTech"
+
+#. Plugin URI of the plugin
+#: responsive-menu.php
+msgid "https://expresstech.io"
+msgstr "https://expresstech.io"
+
+#: v4.0.0/templates/rmp-editor.php:975 v4.0.0/templates/rmp-editor.php:1263
+#: v4.0.0/templates/rmp-editor.php:1740
+msgid "Border Width"
+msgstr "Randbreite"
+
+#: v4.0.0/templates/rmp-editor.php:2772
+msgid "Background Image"
+msgstr "Hintergrundbild"
+
+#: v4.0.0/templates/menu-elements/search.php:126
+msgid "Placeholder Color"
+msgstr "Platzhalter-Farbe"
+
+#: v4.0.0/templates/rmp-settings.php:189
+msgid "Export"
+msgstr "Export"
+
+#: v4.0.0/templates/new-menu-wizard.php:69
+#: v4.0.0/templates/rmp-settings.php:216 v4.0.0/templates/rmp-wizards.php:156
+msgid "Import"
+msgstr "Import"
+
+#: v4.0.0/templates/rmp-settings.php:36
+msgid "Import/Export"
+msgstr "Importieren/Exportieren"
+
+#: v4.0.0/templates/rmp-editor.php:113
+msgid "Menu Styling"
+msgstr "Menü Styling"
+
+#: v4.0.0/templates/menu-elements/title.php:196
+msgid " Text Color"
+msgstr "Textfarbe"
+
+#: v4.0.0/templates/rmp-editor.php:283
+msgid "Colours"
+msgstr "Farben"
+
+#: v4.0.0/templates/menu-elements/additional-content.php:19
+#: v4.0.0/templates/menu-elements/search.php:21
+#: v4.0.0/templates/menu-elements/title.php:21
+msgid "Contents"
+msgstr "Inhalt"
+
+#: v4.0.0/templates/rmp-editor.php:126
+msgid "Header Bar"
+msgstr "Header Bar"
+
+#: v4.0.0/templates/rmp-settings.php:154
+msgid "Custom CSS"
+msgstr "Individuelles CSS"
+
+#: v4.0.0/templates/rmp-editor.php:274
+msgid "Animation Speeds"
+msgstr "Animations-Geschwindigkeit"
+
+#: v4.0.0/templates/rmp-editor.php:593
+msgid "Custom Walker"
+msgstr "Custom Walker"
+
+#: v4.0.0/templates/rmp-settings.php:117
+msgid "Place scripts in footer"
+msgstr "Skripte im Footer laden"
+
+#: v4.0.0/templates/rmp-settings.php:103
+msgid "Minify scripts"
+msgstr "Scripts minimieren"
+
+#: v4.0.0/templates/rmp-settings.php:89
+msgid "Use external files"
+msgstr "Externe Dateien verwenden"
+
+#: v4.0.0/templates/rmp-editor.php:323
+msgid "Technical"
+msgstr "Technisch"
+
+#: v4.0.0/templates/rmp-editor.php:1922
+msgid "Auto Expand Current Sub Menus"
+msgstr "Aktuelle Sub-Menüs automatisch einblenden"
+
+#: v4.0.0/templates/rmp-editor.php:1911
+msgid "Auto Expand All Sub Menus"
+msgstr "Alle Sub-Menüs automatisch einblenden"
+
+#: v4.0.0/templates/menu-elements/search.php:135
+#: v4.0.0/templates/rmp-editor.php:1733
+msgid "Border Color"
+msgstr "Rahmenfarbe"
+
+#: v4.0.0/templates/rmp-editor.php:300
+msgid "Sub Menus"
+msgstr "Sub Menüs"
+
+#: v4.0.0/templates/rmp-editor.php:2331
+msgid "Line Color"
+msgstr "Linie Farbe"
+
+#: v4.0.0/templates/rmp-editor.php:2061
+msgid "Transparent Background"
+msgstr "Transparenter Hintergrund"
+
+#: v4.0.0/templates/rmp-editor.php:2283
+msgid "Line Width"
+msgstr "Linie Breite"
+
+#: v4.0.0/templates/rmp-editor.php:721 v4.0.0/templates/rmp-editor.php:1077
+#: v4.0.0/templates/rmp-editor.php:2305 v4.0.0/templates/rmp-editor.php:2536
+msgid "Line Height"
+msgstr "Zeilenhöhe"
+
+#: v4.0.0/templates/rmp-editor.php:1613 v4.0.0/templates/rmp-editor.php:2652
+msgid "Width"
+msgstr "Breite"
+
+#: v4.0.0/templates/menu-elements/search.php:67
+#: v4.0.0/templates/rmp-editor.php:1635
+msgid "Height"
+msgstr "Höhe"
+
+#: v4.0.0/templates/rmp-editor.php:2165
+msgid "Distance from Top"
+msgstr "Abstand von oben"
+
+#: v4.0.0/templates/rmp-editor.php:2143
+msgid "Distance from Side"
+msgstr "Seitlicher Abstand"
+
+#: v4.0.0/templates/rmp-settings.php:34
+msgid "Advance"
+msgstr "Mehr..."
+
+#: v4.0.0/templates/rmp-editor.php:391
+msgid "Page Overlay"
+msgstr "Seitenüberlagerung"
+
+#: v4.0.0/templates/rmp-editor.php:847
+msgid "Word Wrap"
+msgstr "Zeilenumbruch"
+
+#: v4.0.0/templates/menu-elements/additional-content.php:68
+#: v4.0.0/templates/menu-elements/title.php:157
+#: v4.0.0/templates/rmp-editor.php:821 v4.0.0/templates/rmp-editor.php:1402
+msgid "Text Alignment"
+msgstr "Textausrichtung"
+
+#: v4.0.0/templates/menu-elements/additional-content.php:49
+#: v4.0.0/templates/menu-elements/title.php:138
+#: v4.0.0/templates/rmp-editor.php:773 v4.0.0/templates/rmp-editor.php:1339
+#: v4.0.0/templates/rmp-editor.php:2516
+msgid "Font Size"
+msgstr "Schriftgröße"
+
+#: v4.0.0/templates/menu-elements/additional-content.php:79
+#: v4.0.0/templates/menu-elements/search.php:105
+#: v4.0.0/templates/rmp-editor.php:864 v4.0.0/templates/rmp-editor.php:1415
+#: v4.0.0/templates/rmp-editor.php:1676 v4.0.0/templates/rmp-editor.php:2558
+msgid "Text Color"
+msgstr "Schriftfarbe"
+
+#: v4.0.0/templates/menu-elements/search.php:114
+#: v4.0.0/templates/rmp-editor.php:916 v4.0.0/templates/rmp-editor.php:1207
+#: v4.0.0/templates/rmp-editor.php:1806 v4.0.0/templates/rmp-editor.php:2011
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: v4.0.0/templates/rmp-editor.php:1865 v4.0.0/templates/rmp-editor.php:2247
+#: v4.0.0/templates/rmp-editor.php:2786
+msgid "Animation"
+msgstr "Animation"
+
+#: v4.0.0/templates/rmp-editor.php:1421
+msgid "Color"
+msgstr "Farbe"
+
+#: v4.0.0/templates/menu-elements/additional-content.php:3
+msgid "Additional Content"
+msgstr "Zusätzlicher Inhalt"
+
+#: v4.0.0/templates/menu-elements/title.php:73
+#: v4.0.0/templates/rmp-editor.php:1496 v4.0.0/templates/rmp-editor.php:1580
+#: v4.0.0/templates/rmp-editor.php:2231 v4.0.0/templates/rmp-editor.php:2412
+msgid "Image"
+msgstr "Bild"
+
+#: v4.0.0/templates/rmp-editor.php:1543 v4.0.0/templates/rmp-editor.php:2373
+msgid "Font Icon"
+msgstr "Font Icon"
+
+#: v4.0.0/templates/rmp-editor.php:1486 v4.0.0/templates/rmp-editor.php:2454
+msgid "Text"
+msgstr "Text"
+
+#: v4.0.0/templates/menu-elements/title.php:3
+msgid "Title"
+msgstr "Titel"
+
+#: v4.0.0/templates/rmp-editor.php:2697
+msgid "Minimum Width"
+msgstr "Minimum Breite"
+
+#: v4.0.0/templates/rmp-editor.php:2677
+msgid "Maximum Width"
+msgstr "Maximum Breite"
+
+#: v4.0.0/templates/rmp-editor.php:256
+msgid "Breakpoint"
+msgstr "Breakpoint"
+
+#: v4.0.0/templates/menu-elements/menu.php:3
+msgid "Menu"
+msgstr "Menü"
+
+#: v4.0.0/templates/rmp-editor.php:1491 v4.0.0/templates/rmp-editor.php:2226
+msgid "Icon"
+msgstr "Icon"
+
+#. Author URI of the plugin
+#: responsive-menu.php
+msgid "https://responsive.menu"
+msgstr "https://responsive.menu"
+
+#: v4.0.0/inc/classes/class-rmp-menu.php:298
+#: v4.0.0/templates/menu-elements/search.php:4
+#: v4.0.0/templates/menu-elements/search.php:34
+msgid "Search"
+msgstr "Suche"
+
+#. Description of the plugin
+#: responsive-menu.php
+msgid "Highly Customisable Responsive Menu Plugin for WordPress"
+msgstr "Umfangreich anpassbares Responsive-Menü Plugin für WordPress"
+
+#: v4.0.0/inc/classes/class-admin.php:299
+#: v4.0.0/inc/classes/class-admin.php:300 v4.0.0/templates/rmp-editor.php:152
+msgid "Settings"
+msgstr "Einstellungen"
+
+#. Plugin Name of the plugin
+#: responsive-menu.php v4.0.0/inc/classes/class-admin.php:476
+#: v4.0.0/inc/classes/class-admin.php:477
+#: v4.0.0/inc/classes/class-admin.php:478
+#: v4.0.0/inc/classes/class-admin.php:492
+#: v4.0.0/inc/classes/class-admin.php:493
+#: v4.0.0/inc/classes/elementor/widgets/class-rmp-widget.php:53
+#: v4.0.0/inc/classes/elementor/widgets/class-rmp-widget.php:115
+#: v4.0.0/templates/rmp-settings.php:29
+msgid "Responsive Menu"
+msgstr "Responsive Menu"

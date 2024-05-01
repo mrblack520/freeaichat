@@ -1,0 +1,687 @@
+# Translation of Plugins - Hostinger - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Hostinger - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-03-05 05:28:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-rc.1\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Hostinger - Stable (latest release)\n"
+
+#: includes/admin/views/hostinger-onboarding-view.php:466
+msgid "Preview my website"
+msgstr "Vorschau meiner Website"
+
+#: includes/admin/views/hostinger-onboarding-view.php:453
+msgid "Customize the visual and technical aspects of your website – personalize themes, explore plugins, or preview your website. Don’t worry, we will help you by giving the step-by-step tutorial to do it."
+msgstr "Passe die visuellen und technischen Aspekte deiner Website an – passe Themes an, entdecke Plugins oder zeige eine Vorschau deiner Website. Keine Sorge, wir helfen dir dabei, indem wir dir eine Schritt-für-Schritt-Anleitung geben."
+
+#: includes/admin/views/hostinger-onboarding-view.php:450
+msgid "Customize my website"
+msgstr "Meine Website anpassen"
+
+#: includes/admin/views/hostinger-onboarding-view.php:442
+msgid "Start customization"
+msgstr "Mit der Anpassung beginnen"
+
+#: includes/admin/views/hostinger-onboarding-view.php:427
+msgid "Prepare your online store for success by entering store details, adding products, and configuring payment methods with the intuitive assistance of <b>WooCommerce</b>."
+msgstr "Bereite deinen Online-Shop auf den Erfolg vor, indem du mit der intuitiven Hilfe von <b>WooCommerce</b> die Shop-Details eingibst, Produkte hinzufügst und Zahlungsarten konfigurierst."
+
+#: includes/admin/views/hostinger-onboarding-view.php:422
+msgid "Recommended for you"
+msgstr "Empfehlungen für dich"
+
+#: includes/admin/views/hostinger-onboarding-view.php:422
+msgid "Set up my online store"
+msgstr "Meinen Online Shop einrichten"
+
+#: includes/admin/views/hostinger-onboarding-view.php:414
+#: includes/admin/views/hostinger-onboarding-view.php:460
+msgid "Setup store"
+msgstr "Shop einrichten"
+
+#: includes/admin/views/hostinger-onboarding-view.php:408
+msgid "Congratulations for finishing your hosting set-up and make your website online! Here are the steps that you can do after setting up your hosting plan."
+msgstr "Glückwunsch, dass du deine Hosting-Einrichtung abgeschlossen hast und deine Website online ist! Hier sind die Schritte, die du nach der Einrichtung deines Hosting-Angebots durchführen kannst."
+
+#: includes/admin/views/hostinger-onboarding-view.php:403
+msgid "What do you want to do next?"
+msgstr "Was möchtest du als Nächstes tun?"
+
+#: includes/admin/views/hostinger-onboarding-view.php:402
+msgid "Welcome to WordPress!"
+msgstr "Willkommen bei WordPress!"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-setup-store.php:53
+msgid "Set up store"
+msgstr "Richte einen Shop ein"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-setup-store.php:28
+msgid "Advertising configuration (if needed)"
+msgstr "Konfiguration der Werbung (falls erforderlich)"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-setup-store.php:25
+msgid "Add tax rates (if needed)"
+msgstr "Füge Steuersätze hinzu (falls erforderlich)"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-setup-store.php:22
+msgid "Stock management (if needed)"
+msgstr "Lagerverwaltung (falls erforderlich)"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-setup-store.php:19
+msgid "Set up payments"
+msgstr "Richte Zahlungsmethoden ein"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-setup-store.php:16
+msgid "Add products"
+msgstr "Füge Produkte hinzu"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-setup-store.php:13
+msgid "Complete this following steps to set up your online store. Don't worry, WooCommerce will help you to finish the steps."
+msgstr "Führe die folgenden Schritte aus, um deinen Online-Shop einzurichten. Keine Sorge, WooCommerce hilft dir, die Schritte abzuschließen."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-setup-store.php:5
+msgid "Set up your online store"
+msgstr "Richte deinen Online-Shop ein"
+
+#: includes/admin/class-hostinger-admin-hooks.php:137
+msgid "Preview store"
+msgstr "Shop-Vorschau"
+
+#: includes/admin/class-hostinger-admin-hooks.php:134
+msgid "Visit Hostinger plugin"
+msgstr "Zum Hostinger-Plugin"
+
+#: includes/admin/class-hostinger-admin-hooks.php:131
+msgid "One more step to reach your online success. Finalize the visual and technical aspects of your website using our recommendations checklist."
+msgstr "Ein weiterer Schritt auf dem Weg zu deinem Online-Erfolg. Schließe die visuellen und technischen Aspekte deiner Website mit unserer Checkliste für Empfehlungen ab."
+
+#: includes/admin/class-hostinger-admin-hooks.php:129
+msgid "Your store is ready!"
+msgstr "Dein Shop ist fertig!"
+
+#: includes/admin/class-hostinger-admin-ajax.php:253
+msgid "Something went wrong. Try again."
+msgstr "Etwas ist schief gelaufen. Versuche es noch einmal."
+
+#: includes/surveys/class-hostinger-surveys-questions.php:23
+msgid "How could we improve the Amazon Affiliate plugin and theme?"
+msgstr "Wie können wir das Amazon Affiliate Plugin und das Theme verbessern?"
+
+#: includes/surveys/class-hostinger-surveys-questions.php:16
+msgid "How would you rate your experience publishing Amazon Affiliate links?"
+msgstr "Wie würdest du deine Erfahrungen mit der Veröffentlichung von Amazon Affiliate Links bewerten?"
+
+#: includes/admin/views/partials/hostinger-rate-us.php:38
+msgid "on <a href=\"https://wordpress.org/support/plugin/hostinger/reviews/#new-post\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>"
+msgstr "auf <a href=\"https://wordpress.org/support/plugin/hostinger/reviews/#new-post\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a>"
+
+#: includes/admin/views/partials/hostinger-rate-us.php:2
+msgid "Rate this plugin"
+msgstr "Bewerte dieses Plugin"
+
+#: includes/admin/views/partials/hostinger-promotional-banner.php:24
+msgid "Start earning"
+msgstr "Jetzt Geld verdienen"
+
+#: includes/admin/views/partials/hostinger-promotional-banner.php:9
+msgid "Share your referral link with friends and family and <b>receive 20% commission</b> for every successful referral."
+msgstr "Teile deinen Empfehlungslink mit Freunden und Familie und <b>erhalte 20 % Provision</b> für jede erfolgreiche Empfehlung."
+
+#: includes/admin/views/partials/hostinger-promotional-banner.php:5
+msgid "Invite a Friend, Earn Up to $100"
+msgstr "Freunde einladen und bis zu 100 US$ verdienen"
+
+#: includes/admin/views/hostinger-onboarding-view.php:128
+msgid "Go to hPanel"
+msgstr "Zum hPanel"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-affiliate-settings.php:40
+msgid "Connect Amazon Account"
+msgstr "Verbinde dein Amazon-Konto"
+
+#. translators: %s: link to dashboard
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-affiliate-settings.php:26
+msgid "Complete the form with required information related to Amazon's partnership API. Retrieve all this information from the <a href=\"%s\" target=\"_blank\" rel=\"noopener\">Amazon Product Advertising dashboard</a> and paste it into the form."
+msgstr "Fülle das Formular mit den erforderlichen Informationen zu Amazons Partnerschafts-API aus. Rufe all diese Informationen aus dem <a href=\"%s\" target=\"_blank\" rel=\"noopener\">Amazon Product Advertising Dashboard</a> ab und füge sie in das Formular ein."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-affiliate-settings.php:24
+msgid "Copy-Paste the necessary information:"
+msgstr "Kopiere die notwendigen Informationen und füge sie ein:"
+
+#. translators: %s: link to plugin page
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-affiliate-settings.php:21
+msgid "Fill in the required details on the <a href=\"%s\" class=\"hst-open-affiliate-tab\">Amazon Affiliate plugin page</a>, where you'll find all the necessary information about the plugin."
+msgstr "Gib die erforderlichen Details auf der <a href=\"%s\" class=\"hst-open-affiliate-tab\">Amazon Affiliate Plugin Seite</a> ein, wo du alle notwendigen Informationen über das Plugin findest."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-affiliate-settings.php:19
+msgid "Open the Amazon Affiliate plugin configuration"
+msgstr "Öffne die Konfiguration des Amazon Affiliate Plugins"
+
+#. translators: %s: link to dashboard
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-affiliate-settings.php:16
+msgid "To gather the necessary information, log in to your <a href=\"%s\" target=\"_blank\" rel=\"noopener\">Amazon Product Advertising dashboard</a> using your personal Amazon partnership account."
+msgstr "Um die nötigen Informationen zu sammeln, logge dich mit deinem persönlichen Amazon-Partnerkonto in dein <a href=\"%s\" target=\"_blank\" rel=\"noopener\">Amazon Product Advertising Dashboard</a> ein."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-affiliate-settings.php:14
+msgid "Login to the Amazon Product Advertising dashboard"
+msgstr "Logge dich in das Amazon Product Advertising Dashboard ein"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-affiliate-settings.php:8
+msgid "Connect Amazon partnership account"
+msgstr "Verbinde das Amazon Partnerschaftskonto"
+
+#: includes/admin/class-hostinger-admin-menu.php:47
+#: includes/admin/class-hostinger-admin-menu.php:48
+#: includes/admin/views/hostinger-onboarding-view.php:102
+msgid "AI Content Creator"
+msgstr "KI-Inhaltsersteller"
+
+#: includes/surveys/class-hostinger-surveys-questions.php:21
+msgid "Do you have any comments/suggestions to improve our WooCommerce onboarding?"
+msgstr "Hast du Kommentare/Vorschläge, um unser WooCommerce-Onboarding zu verbessern?"
+
+#: includes/surveys/class-hostinger-surveys-questions.php:15
+msgid "How would you rate your experience using our AI content generation tools in onboarding? (Scale 1-10)"
+msgstr "Wie würdest du deine Erfahrungen mit unseren Werkzeugen zur Erstellung von KI-Inhalten beim Onboarding bewerten? (Skala 1-10)"
+
+#: includes/surveys/class-hostinger-surveys-questions.php:14
+msgid "How would you rate your experience setting up a WooCommerce site on our hosting?"
+msgstr "Wie würdest du deine Erfahrungen beim Einrichten einer WooCommerce-Website auf unserem Hosting-System bewerten?"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-domain.php:132
+msgid "Connect domain now"
+msgstr "Verbinde deine Domain"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-domain.php:88
+msgid "How to Point Domain Name to Web Hosting"
+msgstr "So verweist du den Domainnamen auf das Webhosting"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-domain.php:79
+msgid "Learn how to connect your domain to Hostinger by watching this tutorial on YouTube for a step-by-step guide:"
+msgstr "In diesem YouTube-Tutorial erfährst du Schritt für Schritt, wie du deine Domain mit Hostinger verbinden kannst:"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-domain.php:68
+msgid "Nameserver 2"
+msgstr "Nameserver 2"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-domain.php:58
+msgid "Nameserver 1"
+msgstr "Nameserver 1"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-domain.php:54
+msgid "You can connect domain to Hostinger by changing the nameservers. Different domain providers are have unique procedures for changing nameservers. Here are Hostinger's nameservers:"
+msgstr "Du kannst deine Domain mit Hostinger verbinden, indem du die Nameserver änderst. Verschiedene Domain-Anbieter haben unterschiedliche Verfahren zum Ändern von Nameservern. Hier sind die Nameserver von Hostinger:"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-domain.php:42
+msgid "domain name searcher."
+msgstr "Domain-Checks."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-domain.php:41
+msgid "You need to purchase a domain for your website before the preview domain becomes inaccessible. Find a desired website name using a"
+msgstr "Du musst eine Domain für deine Website kaufen, bevor die Vorschaudomain unzugänglich wird. Finde einen gewünschten Website-Namen mit Hilfe eines"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-domain.php:37
+msgid "Website URL"
+msgstr "Website-URL"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-domain.php:34
+msgid "Your website is already published and can be accessed using Hostinger free temporary subdomain right now. Here is the current URL of your website:"
+msgstr "Deine Website ist bereits veröffentlicht und kann jetzt über die kostenlose temporäre Subdomain von Hostinger aufgerufen werden. Hier ist die aktuelle URL deiner Website:"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-domain.php:25
+msgid "Domain propagation can take up to 24 hours. Your domain will propagate automatically, and you don't need to take any action during this time."
+msgstr "Die Übertragung der Domain kann bis zu 24 Stunden dauern. Deine Domain wird automatisch übertragen und du musst in dieser Zeit nichts unternehmen."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-domain.php:24
+msgid "Wait for domain propagation"
+msgstr "Warte auf die Domain-Übertragung"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-domain.php:20
+msgid "Connect your domain to Hostinger"
+msgstr "Verbinde deine Domain zu Hostinger"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-domain.php:16
+msgid "Get a domain"
+msgstr "Sichere dir eine Domain"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-connect-domain.php:10
+msgid "Connect your domain"
+msgstr "Verbinde deine Domain"
+
+#: includes/views/hostinger-coming-soon.php:26
+msgid "New WordPress website is being built and will be published soon"
+msgstr "Die neue WordPress-Website wird gerade erstellt und demnächst veröffentlicht"
+
+#: includes/views/hostinger-coming-soon.php:6
+#: includes/views/hostinger-coming-soon.php:25
+msgid "Coming Soon"
+msgstr "Demnächst verfügbar"
+
+#: includes/surveys/class-hostinger-surveys.php:345
+msgid "Excellent"
+msgstr "Exzellent"
+
+#: includes/surveys/class-hostinger-surveys.php:344
+msgid "Poor"
+msgstr "Schlecht"
+
+#: includes/surveys/class-hostinger-surveys.php:332
+msgid "Response required."
+msgstr "Antwort erforderlich."
+
+#: includes/surveys/class-hostinger-surveys.php:304
+msgid "Thank you for completing the survey !"
+msgstr "Vielen Dank für die Teilnahme an der Befragung!"
+
+#: includes/surveys/class-hostinger-surveys.php:303
+msgid "Submit"
+msgstr "Absenden"
+
+#: includes/surveys/class-hostinger-surveys.php:302
+msgid "Previous"
+msgstr "Zurück"
+
+#: includes/surveys/class-hostinger-surveys.php:301
+msgid "Next"
+msgstr "Weiter"
+
+#: includes/surveys/class-hostinger-surveys.php:281
+msgid "Survey completed"
+msgstr "Befragung abgeschlossen"
+
+#: includes/surveys/class-hostinger-surveys-questions.php:20
+#: includes/surveys/class-hostinger-surveys-questions.php:22
+msgid "Do you have any comments/suggestions to improve our AI tools?"
+msgstr "Hast du Anmerkungen/Vorschläge zur Verbesserung unserer KI-Werkzeuge?"
+
+#: includes/surveys/class-hostinger-surveys-questions.php:13
+msgid "How would you rate your experience using our AI Assistant plugin for content generation? (Scale 1-10)"
+msgstr "Wie würdest du deine Erfahrungen mit unserem KI-Assistenten-Plugin für die Erstellung von Inhalten bewerten? (Skala 1-10)"
+
+#: includes/class-hostinger-errors.php:27
+msgid "Unknown error code."
+msgstr "Unbekannter Fehlercode."
+
+#: includes/class-hostinger-errors.php:16
+msgid "We apologize for the inconvenience. The AI content generation process encountered a server error. Please try again later, and if the issue persists, kindly contact our support team for assistance."
+msgstr "Wir entschuldigen uns für die Unannehmlichkeiten. Bei der Generierung von KI-Inhalten ist ein Serverfehler aufgetreten. Bitte versuche es später noch einmal. Sollte das Problem weiterhin bestehen, wende dich bitte an unser Support-Team."
+
+#: includes/class-hostinger-errors.php:13
+msgid "An unexpected error occurred. Please try again or contact support."
+msgstr "Es ist ein unerwarteter Fehler aufgetreten. Bitte versuche es erneut oder kontaktiere den Support."
+
+#: includes/class-hostinger-errors.php:10
+msgid "Action Failed. Try again or contact support. Apologies."
+msgstr "Aktion fehlgeschlagen. Versuche es erneut oder kontaktiere den Support. Entschuldigung."
+
+#: includes/surveys/class-hostinger-surveys.php:398
+msgid "of "
+msgstr "von "
+
+#: includes/surveys/class-hostinger-surveys.php:392
+msgid "Question"
+msgstr "Frage"
+
+#: includes/admin/views/hostinger-onboarding-view.php:356
+msgid "Get in touch with our live specialists"
+msgstr "Kontaktiere unsere Live-Experten"
+
+#: includes/admin/views/hostinger-onboarding-view.php:355
+msgid "Help Center"
+msgstr "Hilfe-Center"
+
+#: includes/admin/views/hostinger-onboarding-view.php:345
+msgid "Find the answers you need in our Knowledge Base"
+msgstr "Finde die Antworten, die du brauchst, in unserer Wissensdatenbank"
+
+#: includes/admin/views/hostinger-onboarding-view.php:344
+msgid "Knowledge Base"
+msgstr "Wissensdatenbank"
+
+#: includes/admin/views/hostinger-onboarding-view.php:282
+msgid "Hostinger Academy"
+msgstr "Hostinger Akademie"
+
+#: includes/admin/views/hostinger-onboarding-view.php:275
+msgid "WordPress tutorials"
+msgstr "WordPress-Tutorials"
+
+#: includes/admin/views/hostinger-onboarding-view.php:265
+msgid "Close"
+msgstr "Schließen"
+
+#: includes/admin/views/hostinger-onboarding-view.php:263
+msgid "This can take some time"
+msgstr "Das kann einige Zeit dauern"
+
+#: includes/admin/views/hostinger-onboarding-view.php:262
+msgid "Publishing website"
+msgstr "Website wird veröffentlicht"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:82
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-post.php:34
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-description.php:40
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-heading.php:30
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-image-step.php:34
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-logo-step.php:34
+msgid "Take me there"
+msgstr "Bring mich dorthin"
+
+#: includes/admin/views/hostinger-onboarding-view.php:195
+msgid "Got it!"
+msgstr "Verstanden!"
+
+#: includes/admin/views/hostinger-onboarding-view.php:55
+msgid "How to Set Up WordPress SMTP"
+msgstr "So richtest du WordPress SMTP ein"
+
+#: includes/admin/views/hostinger-onboarding-view.php:50
+msgid "How to Import Images Into WordPress Website"
+msgstr "So importierst du Bilder in deine WordPress-Website"
+
+#: includes/admin/views/hostinger-onboarding-view.php:45
+msgid "How to Back Up a WordPress Site"
+msgstr "So erstellst du eine Sicherung deiner WordPress-Website"
+
+#: includes/admin/views/hostinger-onboarding-view.php:40
+msgid "LiteSpeed Cache: How to Get 100% WordPress Optimization"
+msgstr "LiteSpeed Cache: So erhältst du eine 100 %ige WordPress-Optimierung"
+
+#: includes/admin/views/hostinger-onboarding-view.php:35
+msgid "How to Edit the Footer in WordPress"
+msgstr "So bearbeitest du den Footer in WordPress"
+
+#: includes/admin/views/hostinger-onboarding-view.php:30
+msgid "How to Clear Cache in WordPress Website"
+msgstr "So bereinigst du den Cache einer WordPress-Website"
+
+#: includes/admin/views/hostinger-onboarding-view.php:25
+msgid "How to Create a WordPress Contact Us Page"
+msgstr "So erstellst du eine WordPress-Kontaktseite"
+
+#: includes/admin/views/hostinger-onboarding-view.php:20
+#: includes/admin/views/hostinger-onboarding-view.php:303
+msgid "How to Add Your WordPress Website to Google Search Console"
+msgstr "So fügst du deine WordPress-Website zur Google Search Console hinzu"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-logo-step.php:20
+msgid "In the left sidebar, click Site Identity, then click on the Select Site Icon button. Here, you can upload your brand logo. "
+msgstr "Klicke in der linken Seitenleiste auf Website-Informationen und dann auf den Button Website-Icon wählen. Hier kannst du dein Markenlogo hochladen. "
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-logo-step.php:16
+msgid "In the left sidebar, click Appearance to expand the menu. In the Appearance section, click Customize. The Customize page will open. "
+msgstr "Klicke in der linken Seitenleiste auf Design, um das Menü zu erweitern. Klicke im Abschnitt Design auf Customizer. Die Customizer-Seite wird geöffnet. "
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-logo-step.php:12
+msgid "Adding a logo is a great way to personalize a website or add branding information. You can use your existing logo or create a new one using the <a href=\"https://logo.hostinger.com/?ref=wordpress-onboarding\" target=\"_blank\">AI Logo Maker</a>."
+msgstr "Das Hinzufügen eines Logos ist eine gute Möglichkeit, eine Website zu personalisieren oder Informationen zur Marke hinzuzufügen. Du kannst dein bestehendes Logo verwenden oder mit dem <a href=\"https://logo.hostinger.com/?ref=wordpress-onboarding\" target=\"_blank\">KI Logo Maker</a> ein neues erstellen."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-logo-step.php:11
+msgid "Create a logo"
+msgstr "Erstelle ein Logo"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-logo-step.php:5
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-logo-step.php:19
+msgid "Upload your logo"
+msgstr "Lade dein Logo hoch"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-image-step.php:20
+msgid "If you wish to edit the image, click on the chosen image and click the Edit Image button. You can now crop, rotate, flip or scale the selected image."
+msgstr "Wenn du das Bild bearbeiten möchtest, klicke auf das ausgewählte Bild und dann auf den Button Bild bearbeiten. Du kannst das ausgewählte Bild nun zuschneiden, drehen, spiegeln oder skalieren."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-image-step.php:19
+msgid "Edit an image"
+msgstr "Bearbeite ein Bild"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-image-step.php:16
+msgid "To upload a new image, click on Add New button on the Media Library page and select files."
+msgstr "Um ein neues Bild hochzuladen, klicke auf der Seite Medien auf den Button Neue Mediendatei hinzufügen und wähle Dateien aus."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-image-step.php:12
+msgid "In the left sidebar, find the Media button. The Media Library page allows you to edit, view, and delete media previously uploaded to your website."
+msgstr "In der linken Seitenleiste findest du den Button Medien. In der Medienbibliothek kannst du Medien, die du zuvor auf deine Website hochgeladen hast, bearbeiten, anzeigen und löschen."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-image-step.php:11
+msgid "Find the Media page"
+msgstr "Finde die Medien-Seite"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-image-step.php:5
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-image-step.php:15
+msgid "Upload an image"
+msgstr "Lade ein Bild hoch"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-heading.php:16
+msgid "In the left sidebar, click Site Identity and edit your site title."
+msgstr "Klicke in der linken Seitenleiste auf Website-Informationen und bearbeite deinen Website-Titel."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-heading.php:15
+msgid "Access the Site identity and edit title"
+msgstr "Greife auf die Website-Informationen zu und bearbeite den Titel"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-heading.php:12
+msgid "In the left sidebar, click Appearance to expand the menu. In the Appearance section, click Customize. The Customize page will open."
+msgstr "Klicke in der linken Seitenleiste auf Design, um das Menü zu erweitern. Klicke im Abschnitt Design auf Customizer. Die Customizer-Seite wird geöffnet."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-heading.php:11
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-logo-step.php:15
+msgid "Go to the Customize page"
+msgstr "Gehe zum Customizer"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-heading.php:5
+msgid "Edit site title"
+msgstr "Bearbeite den Website-Titel"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-description.php:26
+msgid "You can see the whole post in the editor. Find the description part and change it to your preferences."
+msgstr "Du kannst den ganzen Beitrag im Editor sehen. Suche den Bereich Beschreibung und ändere ihn nach deinen Wünschen."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-description.php:25
+msgid "Edit description"
+msgstr "Bearbeite die Beschreibung"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-description.php:22
+msgid "Hover over the chosen post to see the options menu. Click on the Edit button to open the post editor."
+msgstr "Bewege den Mauszeiger über den gewählten Beitrag, um das Optionsmenü zu sehen. Klicke auf Bearbeiten, um den Beitragseditor zu öffnen."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-description.php:21
+msgid "Edit post"
+msgstr "Bearbeite einen Beitrag"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-description.php:18
+msgid "In the left sidebar, find the Posts button. Click on the All Posts button and find the post for which you want to change the description."
+msgstr "In der linken Seitenleiste findest du den Button Beiträge. Klicke auf Alle Beiträge und suche den Beitrag, für den du die Beschreibung ändern möchtest."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-description.php:17
+msgid "Go to Posts"
+msgstr "Gehe zu Beiträge"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-description.php:11
+msgid "Edit post description"
+msgstr "Bearbeite die Beitragsbeschreibung"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-post.php:20
+msgid "Once you have finished drafting your post, read it over to check for errors, make any necessary revisions, and then publish it to your blog."
+msgstr "Wenn du mit dem Entwurf deines Beitrags fertig bist, lies ihn noch einmal durch, um ihn auf Fehler zu überprüfen, überarbeite ihn gegebenenfalls und veröffentliche ihn dann in deinem Blog."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-post.php:19
+msgid "Proofread and publish"
+msgstr "Korrektur lesen und veröffentlichen"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-post.php:16
+msgid "Write your content, making sure to include relevant keywords and images. You can use different blocks to create headings, paragraphs, lists, and other types of content."
+msgstr "Schreibe deinen Inhalt und achte darauf, dass du relevante Schlüsselwörter und Bilder einfügst. Du kannst verschiedene Blöcke verwenden, um Überschriften, Absätze, Listen und andere Arten von Inhalten zu erstellen."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-post.php:15
+msgid "Draft your post"
+msgstr "Verfasse deinen Beitrag"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-post.php:12
+msgid "Create a headline that grabs your visitors attention and accurately represents the content of your post."
+msgstr "Erstelle eine Überschrift, die die Aufmerksamkeit deiner Besucher erregt und den Inhalt deines Beitrags genau beschreibt."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-post.php:11
+msgid "Create a catchy headline"
+msgstr "Schreibe eine aussagekräftige Überschrift"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-post.php:5
+msgid "Create your first blog post"
+msgstr "Erstelle deinen ersten Blogbeitrag"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:67
+msgid "Before publishing, you can preview your created page by clicking on the Preview button. If you are happy with the result, click the Publish button."
+msgstr "Vor dem Veröffentlichen kannst du deine erstellte Seite in der Vorschau ansehen, indem du auf den Button Vorschau klickst. Wenn du mit dem Ergebnis zufrieden bist, klicke auf Veröffentlichen."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:66
+msgid "Publish the page"
+msgstr "Veröffentliche die Seite"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:63
+msgid "Content can be anything you wish, for example, text, images, videos, tables, and lots more. Click on a plus sign and choose any block you want to add to the page."
+msgstr "Der Inhalt kann alles sein, was du willst, zum Beispiel Text, Bilder, Videos, Tabellen und vieles mehr. Klicke auf ein Pluszeichen und wähle einen beliebigen Block aus, den du der Seite hinzufügen möchtest."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:62
+msgid "Add content"
+msgstr "Füge Inhalt hinzu"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:59
+msgid "Add the title of the page, for example, About. Click the Add Title text to open the text box where you will add your title. The title of your page should be descriptive of the information the page will have."
+msgstr "Füge den Titel der Seite hinzu, zum Beispiel „Über mich”. Klicke auf den Text Titel hier eingeben, um das Textfeld zu öffnen, in das du deinen Titel einträgst. Der Titel deiner Seite sollte die Informationen beschreiben, die die Seite enthalten soll."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:58
+msgid "Add a title"
+msgstr "Füge einen Titel hinzu"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:55
+msgid "In the left sidebar, find the Pages menu and click on Add New button. You will see the WordPress page editor. Each paragraph, image, or video in the WordPress editor is presented as a “block” of content."
+msgstr "In der linken Seitenleiste findest du das Menü Seiten. Klicke auf Erstellen. Du siehst nun den WordPress-Seiteneditor. Jeder Absatz, jedes Bild und jedes Video wird im WordPress-Editor als ein „Block” von Inhalten dargestellt."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:48
+msgid "Once you're happy with your portfolio post, click the \"Publish\" button to make it live on your website. You can add a link to your main navigation menu or other relevant posts to make it easy for visitors to find."
+msgstr "Wenn du mit deinem Portfolio-Beitrag zufrieden bist, klicke auf den Button „Veröffentlichen”, um ihn auf deiner Website zu veröffentlichen. Du kannst einen Link zu deinem Hauptnavigationsmenü oder zu anderen relevanten Beiträgen hinzufügen, damit deine Besucher sie leicht finden können."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:47
+msgid "Publish your page"
+msgstr "Veröffentliche deine Seite"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:44
+msgid "In the block menu, search for \"Gallery\" and select the Gallery block. Upload the images you want to showcase in your portfolio, then adjust the layout and add captions if needed."
+msgstr "Suche im Blockmenü nach „Galerie” und wähle den Galerie-Block aus. Lade die Bilder hoch, die du in deinem Portfolio zeigen möchtest, passe das Layout an und füge bei Bedarf Bildunterschriften hinzu."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:43
+msgid "Add a gallery block"
+msgstr "Füge einen Galerie-Block hinzu"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:40
+msgid "Give your page a name (e.g. \"My Portfolio\"), then click the \"+\" button in the editor to add a new block."
+msgstr "Gib deiner Seite einen Namen (z. B. „Mein Portfolio”) und klicke dann im Editor auf den Button „+”, um einen neuen Block hinzuzufügen."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:39
+msgid "Create a new page called “My projects”"
+msgstr "Erstelle eine neue Seite namens „Meine Projekte”."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:33
+msgid "Make the page easy to read and navigate by using headings and bullet points. Include a clear call-to-action (CTA) to encourage visitors to take the next step for example, to contact you via email or contact form."
+msgstr "Gestalte die Seite durch Überschriften und Aufzählungspunkte übersichtlich und leicht zu navigieren. Füge eine klare Handlungsaufforderung (CTA) ein, um die Besucher zu ermutigen, den nächsten Schritt zu tun, z. B. dich per E-Mail oder Kontaktformular zu kontaktieren."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:32
+msgid "Finalize the page"
+msgstr "Stelle die Seite fertig"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:29
+msgid "Write a brief introduction to your business, provide an overview of your services with descriptions and benefits, and use relevant images to support your content. Keep it simple and straightforward."
+msgstr "Stelle dein Unternehmen kurz vor, gib einen Überblick über deine Dienste mit Beschreibungen und Vorteilen und verwende aussagekräftige Bilder zur Unterstützung deines Inhalts. Fasse dich kurz und bündig."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:28
+msgid "Add the content and images that represent your services"
+msgstr "Füge die Inhalte und Bilder hinzu, die deine Dienste repräsentieren"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:25
+msgid "Come up with a clear and concise name for the page that accurately reflects the services you provide."
+msgstr "Überlege dir einen klaren und prägnanten Namen für die Seite, der deine angebotenen Dienste genau beschreibt."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:24
+msgid "Give a page a short title such as “Our Services”"
+msgstr "Gib der Seite einen kurzen Titel wie „Unsere Dienste”."
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:13
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:54
+msgid "Add a new page"
+msgstr "Füge eine neue Seite hinzu"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:11
+msgid "Upload your portfolio projects"
+msgstr "Lade deine Portfolio-Projekte hoch"
+
+#: includes/admin/onboarding/steps/class-hostinger-onboarding-add-page.php:9
+msgid "Create a page describing your services"
+msgstr "Erstelle eine Seite, die deine Dienste beschreibt"
+
+#: includes/admin/onboarding/class-hostinger-onboarding.php:80
+#: includes/admin/onboarding/class-hostinger-onboarding.php:82
+msgid "Publish website"
+msgstr "Website veröffentlichen"
+
+#: includes/admin/onboarding/class-hostinger-onboarding.php:79
+msgid "Follow our guided checklist to setup your website"
+msgstr "Folge unserer Checkliste, um deine Website einzurichten"
+
+#: includes/admin/onboarding/class-hostinger-onboarding.php:78
+msgid "Set up your website"
+msgstr "Richte deine Website ein"
+
+#: includes/admin/onboarding/class-hostinger-onboarding.php:70
+msgid "Preview website"
+msgstr "Website-Vorschau"
+
+#: includes/admin/onboarding/class-hostinger-onboarding.php:68
+msgid "You can access this guide material any time when updating your website"
+msgstr "Du kannst bei der Aktualisierung deiner Website jederzeit auf dieses Anleitungsmaterial zugreifen"
+
+#: includes/admin/class-hostinger-admin-menu.php:36
+#: includes/admin/class-hostinger-admin-menu.php:37
+#: includes/admin/views/hostinger-onboarding-view.php:96
+msgid "Learn"
+msgstr "Lernen"
+
+#: includes/admin/class-hostinger-admin-menu.php:26
+#: includes/admin/class-hostinger-admin-menu.php:27
+#: includes/admin/views/hostinger-onboarding-view.php:95
+msgid "Get started"
+msgstr "Erste Schritte"
+
+#: includes/admin/class-hostinger-admin-ajax.php:169
+msgid "Congratulations! Your website is online."
+msgstr "Glückwunsch! Deine Website ist live."
+
+#: includes/admin/class-hostinger-admin-ajax.php:168
+#: includes/admin/onboarding/class-hostinger-onboarding.php:67
+msgid "Website is published"
+msgstr "Website ist veröffentlicht"
+
+#. Author URI of the plugin
+#: hostinger.php
+msgid "https://www.hostinger.com"
+msgstr "https://www.hostinger.com"
+
+#. Description of the plugin
+#: hostinger.php
+msgid "Hostinger WordPress plugin."
+msgstr "Hostinger WordPress Plugin."
+
+#. Plugin URI of the plugin
+#: hostinger.php
+msgid "https://hostinger.com"
+msgstr "https://hostinger.com"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: hostinger.php includes/admin/class-hostinger-admin-menu.php:15
+#: includes/admin/class-hostinger-admin-menu.php:16
+#: includes/admin/views/hostinger-onboarding-view.php:473
+msgid "Hostinger"
+msgstr "Hostinger"

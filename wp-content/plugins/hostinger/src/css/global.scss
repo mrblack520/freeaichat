@@ -1,0 +1,27 @@
+@import "base/variables";
+@import "components/survey";
+
+.theme-astra.intelligent-starter-templates-onboarding .stc-toggle-dropdown-popup-item {
+	display:none;
+}
+
+.theme-astra.intelligent-starter-templates-onboarding .stc-toggle-dropdown-popup-item.active {
+	display:block;
+}
+
+#wp__notice-list {
+	.notice-hst {
+		padding-top:7.5px;
+		padding-bottom:7.5px;
+		margin-top: 25px;
+
+		.components-button {
+			margin-right: 3px;
+		}
+	}
+}
+
+.notice.notice-info.hts-omnisend {
+	position: relative;
+	padding: 12px;
+}
